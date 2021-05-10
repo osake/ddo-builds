@@ -1,0 +1,2668 @@
+<DDOCharacterData>
+  <Character>
+    <Name/>
+    <Alignment>Neutral</Alignment>
+    <Race>Deep Gnome</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>28</UserSelectedSpend>
+      <AvailableSpend>28</AvailableSpend>
+      <StrSpend>6</StrSpend>
+      <DexSpend>6</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>8</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Harper Agent Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Deep Gnome</Stances>
+      <Stances>True Neutral</Stances>
+      <Stances>Medium Armor</Stances>
+      <Stances>Orb</Stances>
+      <Stances>Single Weapon Fighting</Stances>
+      <Stances>Longsword</Stances>
+      <Stances>Shroud of the Wraith</Stances>
+      <Stances>Martial Hymn</Stances>
+      <Stances>Knight's Transformation</Stances>
+      <Stances>Know the Angles</Stances>
+      <Stances>Epic Defensive Fighting</Stances>
+      <Stances>Precision</Stances>
+    </ActiveStances>
+    <Level4>Intelligence</Level4>
+    <Level8>Intelligence</Level8>
+    <Level12>Intelligence</Level12>
+    <Level16>Intelligence</Level16>
+    <Level20>Intelligence</Level20>
+    <Level24>Intelligence</Level24>
+    <Level28>Intelligence</Level28>
+    <Class1>Wizard</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Deep Gnome</TreeName>
+      <TreeName>Eldritch Knight (Wiz)</TreeName>
+      <TreeName>Pale Master</TreeName>
+      <TreeName>Harper Agent</TreeName>
+      <TreeName>Arch-Mage</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <Tier5Tree>Eldritch Knight (Wiz)</Tier5Tree>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>24</SkillPointsAvailable>
+      <SkillPointsSpent>24</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Single Weapon Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Precision</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Extend Spell</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Insightful Reflexes</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Knight's Training</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Mental Toughness</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>9</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Single Weapon Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Mental Toughness</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Offhand Versatility</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Focus: Illusion</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>19</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Repair</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Single Weapon Fighting</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Single Weapon Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>25</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Dire Charge</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>28</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of Arborea</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Expeditious Retreat</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Jump</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Merfolk's Blessing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Shield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Blur</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Knock</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Death Aura</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Resist Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Spawn Screen</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Displacement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Haste</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Rage</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Death Aura</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Dimension Door</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Enervation</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Fire Shield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Negative Energy Burst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Ball Lightning</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Cone of Cold</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Teleport</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Greater Heroism</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Necrotic Ray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Otiluke's Freezing Sphere</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Tenser's Transformation</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>True Seeing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Delayed Blast Fireball</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Greater Teleport</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Invisibility, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Otto's Sphere of Dancing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Prismatic Spray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Otto's Irresistible Dance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Polar Ray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Acid Well</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Hold Monster, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Meteor Swarm</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Rend the Soul</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Wail of the Banshee</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Deep Gnome</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DeepGnomeCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeepGnomeCore2</EnhancementName>
+        <Selection>Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeepGnomeCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeepGnomeUnderdarkExperience</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeepGnomeColorSpray</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Eldritch Knight (Wiz)</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizImprovedMageArmor</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizArcaneSiphon</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">4 5 6</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizImprovedShield</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">7 8 9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizToughness</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">11 13 14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizEldritchAccuracy</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizAbilityScoreI</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizMysticWards</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizArmoredArcana</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizForcesPoint</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">20</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizKnightsTransformation</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizAbilityScoreII</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizOffhandDefenses</EnhancementName>
+        <Selection>Orb Saves</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizImprovedKnightsTransformation</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">24</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizKnightsArcanum</EnhancementName>
+        <Selection>Knight's Controller</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">25</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">26</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizForcesEdge</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">27</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizEldritchTempest</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+        <BuyIndex size="3">28 29 30</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">31</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Harper Agent</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HarperCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TravelersToughness</EnhancementName>
+        <Ranks>2</Ranks>
+        <BuyIndex size="2">1 2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HarperEnchantment</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HarperCore2</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HarperKnowTheAngles</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>StrategicCombatII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">8</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Pale Master</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNegativeEnergyConduit</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore2</EnhancementName>
+        <Selection>Pale Master: Shroud of the Wraith</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleDeathlessVigor</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNegativeEnergyAdept</EnhancementName>
+        <Ranks>2</Ranks>
+        <BuyIndex size="2">9 10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore3</EnhancementName>
+        <Selection>Inflict Weariness</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">11</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyIII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore4</EnhancementName>
+        <Selection>Undead Chill</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">14</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <ActiveEpicDestiny>Fatesinger</ActiveEpicDestiny>
+    <FatePoints>25</FatePoints>
+    <EpicDestinySpendInTree>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Dragonhide</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Exalted Angel</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EndlessFaith</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Fatesinger</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FateCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FirstHarmonicChord</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SirensSong</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoundFate</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">10 11 12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Reign</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">13 14 15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimFate</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">16 17 18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MartialHymn</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FourthHarmonicChord</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">20 24 28</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Bladesong</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Masquerade</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TheFifthChord</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MetamagicAttunementII</EnhancementName>
+        <Selection>Intensify</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">25</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TurnOfTheTide</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">26</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GreaterShout</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">27</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Fury of the Wild</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Magister</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Acrobatic</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Technician</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">9 10 11</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Lithe</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">12 13 14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MeldIntoDarkness</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">15 16 17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimPrecision</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">18 19 20</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Shiradi Champion</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <TwistOfFate>
+      <Tier>3</Tier>
+      <TrainedEnhancement>
+        <EnhancementName>MeldIntoDarkness</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">15 16 17</BuyIndex>
+      </TrainedEnhancement>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>3</Tier>
+      <TrainedEnhancement>
+        <EnhancementName>GrimPrecision</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">18 19 20</BuyIndex>
+      </TrainedEnhancement>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>1</Tier>
+      <TrainedEnhancement>
+        <EnhancementName>Dragonhide</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>1</Tier>
+      <TrainedEnhancement>
+        <EnhancementName>EndlessFaith</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Helmet>
+        <Name>Legendary Crown of Snow</Name>
+        <Icon>Helmet_LegendaryCrownOfFireflies</Icon>
+        <Description>A crown of packed snow and arcane magic, both beautful and cold.</Description>
+        <DropLocation>U48 Quest: Legend of the Lost Locket</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Fire Shield (Cold): You permanently benefit from Fire Shield(Cold) which proects you from Fire Damage and harms those who attack you. You are permanently warded against Fire Shield(Hot)</EffectDescription>
+        <EffectDescription>Paragon Cerulean Wave: This powerful magical implement hums in your hands and resonates with icy magic. Spells you cast have a chance of freezing your targets in a bloack of solid ice.</EffectDescription>
+        <EffectDescription>Spell Focus Mastery +7: Passive: +7 Equipment bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Insightful Spell Focus Mastery +4: Passive: +4 Insight bonus to the DC of all spells.</EffectDescription>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>7</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>4</Amount>
+          <School>All</School>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Legendary Family Recruit Sigil</Name>
+        <Icon>Necklace_LegendaryFamilyRecruitSigil</Icon>
+        <Description>If you're in, you're in.</Description>
+        <DropLocation>Quest: House of Pain</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>True Seeing: Passive: You gain the benefit of the spell True Seeing</EffectDescription>
+        <EffectDescription>Armor-Piercing +33: +33 Enhancement bonus to bypass enemy fortification.</EffectDescription>
+        <EffectDescription>Deadly +17: +17 Competence bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Part of the Family</SetBonus>
+        <Effect>
+          <Type>TrueSeeing</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>1</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>FortificationBypass</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>17</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Trinket>
+        <Name>Legendary Deep Promise Onyx</Name>
+        <Icon>Trinket_LegendaryDeepPromiseOnyx</Icon>
+        <Description>The deeper you look, the heavier it feels...</Description>
+        <DropLocation>U46: Quest: Rosemary's Ballad</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Quality Intelligence +5: Passive: +5 Quality Bonus to Intelligence.</EffectDescription>
+        <EffectDescription>Insightful Negative Healing Amplification +43: +43 Insight Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
+        <EffectDescription>Quality Negative Healing Amplification +22: +22 Quality Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
+        <EffectDescription>False Life +81: This item grants the wearer +81 enhancement bonus to maximum health.</EffectDescription>
+        <EquipmentSlot>
+          <Trinket/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>5</Amount>
+          <Ability>Intelligence</Ability>
+        </Effect>
+        <Effect>
+          <Type>NegativeHealingAmplification</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>43</Amount>
+        </Effect>
+        <Effect>
+          <Type>NegativeHealingAmplification</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>22</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>81</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Trinket>
+      <Cloak>
+        <Name>Legendary Mantle of Fury</Name>
+        <Icon>Cloak_LegendaryMantleOfFury</Icon>
+        <Description>This cloak is best borne on the shoulders of those seeking vengeance.</Description>
+        <DropLocation>Quest: Into the Mists</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Constitution +19: Passive: +19 Enhancement Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Raging Resilience: While Raged, +4 Rage Bonus to Fortitude Saves</EffectDescription>
+        <EffectDescription>Doublestrike +22%: +22% Enhancement bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Dodge Bonus +19%: +19% Enhancement bonus to Dodge.</EffectDescription>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <SetBonus>Adherent of the Mists Set (Legendary)</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>19</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Rage</Bonus>
+          <Amount>4</Amount>
+          <AnyOfStance>Beasthide Shifter: Shifted Form</AnyOfStance>
+          <AnyOfStance>Wildhunt Shifter: Shifted Form</AnyOfStance>
+          <AnyOfStance>Rage</AnyOfStance>
+          <AnyOfStance>Razorclaw Shifter: Shifted Form</AnyOfStance>
+          <Save>Fortitude</Save>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+        </Effect>
+        <Effect>
+          <Type>DodgeBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>19</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Cloak>
+      <Belt>
+        <Name>Strap of Autumn Leaves</Name>
+        <Icon>Belt_StrapOfAutumnLeaves</Icon>
+        <Description>The sweet smell of the autumn wind follows you.</Description>
+        <DropLocation>U48 Any Feywild Quest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Intelligence +22: Passive: +22 Enhancement Bonus to Intelligence.</EffectDescription>
+        <EffectDescription>Magical Sheltering +59: This item provides a +59 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Natural Armor Bonus +22: Natural Armor bonus to AC.</EffectDescription>
+        <EffectDescription>Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.</EffectDescription>
+        <EquipmentSlot>
+          <Belt/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+          <Ability>Intelligence</Ability>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>59</Amount>
+        </Effect>
+        <Effect>
+          <Type>NaturalArmor</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>-10</Amount>
+          <Percent/>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Belt>
+      <Goggles>
+        <Name>Legendary Dusk Lenses</Name>
+        <Icon>Goggles_LegendaryDuskLenses</Icon>
+        <Description>Peer into the gloom of the unknown.</Description>
+        <DropLocation>Quest: Thralls of the Fungus Lord</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Potency +154: Passive: +154 Equipment Bonus to Universal Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Potency +77: Passive: +77 Insight Bonus to Universal Spell Power.</EffectDescription>
+        <EffectDescription>Efficient Metamagic - Empower II: The additional spell point cost for using the Empower Metamagic feat is reduced by 2 SP.</EffectDescription>
+        <EffectDescription>Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.</EffectDescription>
+        <EquipmentSlot>
+          <Goggles/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Esoteric Initiate</SetBonus>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>154</Amount>
+          <SpellPower>All</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>77</Amount>
+          <SpellPower>All</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>-2</Amount>
+          <Stance>Empower</Stance>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>-2</Amount>
+          <Stance>Maximize</Stance>
+        </Effect>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Goggles>
+      <Gloves>
+        <Name>Legendary Hammerfist</Name>
+        <Icon>Gloves_LegendaryHammerfist</Icon>
+        <Description>Come for the hammer, stay for the fist.</Description>
+        <DropLocation>Quest: Blown Deadline</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Doublestrike +11%: +11% Insight bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Cannith Combat Infusion: Your ranged and melee attacks have a chance to cause this item to inject a Cannith Combat Infusion into your bloodstream. For the next ten seconds, this will grant a +4 Alchemical bonus to Strength, Constitution and Dexterity, as well as a 5% Alchemical bonus to your chance to doublestrike and a +2 Alchemical bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Seeker +21: Passive: +21 Enhancement Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EffectDescription>Insightful Deadly +8: +8 Insight bonus to weapon damage.</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Part of the Family</SetBonus>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>11</Amount>
+        </Effect>
+        <Effect>
+          <Type>Seeker</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>21</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>8</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Gloves>
+      <Boots>
+        <Name>Legendary Deepsnow Boots</Name>
+        <Icon>Boots_LegendaryDeepsnowBoots</Icon>
+        <Description>These boots are perfect for navigating extreme weather.</Description>
+        <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Constitution +10: Passive: +10 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Constitution +5: Passive: +5 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
+        <EffectDescription>Fortitude Save +17: This item gives a +17 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>10</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>5</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Equipment</Bonus>
+          <Immunity>Freedome of Movement</Immunity>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>17</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Cold Iron Bracers</Name>
+        <Icon>Bracers_LegendaryColdIronBracers</Icon>
+        <Description>These heavy bracers are made of Cold Iron and can withstand heavy blows.</Description>
+        <DropLocation>U48 Quest: Immortality Lessons</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for incorporeal targets. Enemy attacks have a 10% chance to miss you due to your incorpreality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.</EffectDescription>
+        <EffectDescription>Protection +17: Passive: +17 Deflection Bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Vitality +72: Passive: +72 Vitality bonus to Hit points.</EffectDescription>
+        <EffectDescription>Quality False Life +20: This item grants the wearer +20 quality bonus to maximum health.</EffectDescription>
+        <EquipmentSlot>
+          <Bracers/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>5</Amount>
+          <Skill>Hide</Skill>
+          <Skill>Move Silently</Skill>
+        </Effect>
+        <Effect>
+          <Type>Incorpreality</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>GhostTouch</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>1</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Deflection</Bonus>
+          <Amount>17</Amount>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Vitality</Bonus>
+          <Amount>72</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Bracers>
+      <Armor>
+        <Name>Legendary Enforcer's Coat</Name>
+        <Icon>MediumArmor_LegendaryEnforcersCoat</Icon>
+        <Description>For when you need to let everyone know where your loyalties lie.</Description>
+        <DropLocation>Quest: Thralls of the Fungus Lord</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Fortification +214%: Passive: +214% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Physical Sheltering +54: This item provides a +54 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Healing Amplification +85: +85 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>False Life +81: This item grants the wearer +81 enhancement bonus to maximum health.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Medium</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Part of the Family</SetBonus>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>18</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>214</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>54</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>85</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>81</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Legendary Morninglord's Longsword</Name>
+        <Icon>Longsword_Barovian</Icon>
+        <Description>This weapon was designed to serve the Morninglord, and has been blessed with unimaginable power... and something else?</Description>
+        <DropLocation>Any Ravenloft quest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Damage and Type 5[1d8+2] + 15 Slash, Good, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <EffectDescription>Undead Bane 9: Those that have did must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 9d10 bane damage vs. Undead</EffectDescription>
+        <EffectDescription>Holy 9: This weapon deals an additional 9d10 Holy damage</EffectDescription>
+        <EffectDescription>Fiery 9: This effect causes the edges of this weapon to burn with enchanted flames, dealing 9d6 Fire damage on each hit</EffectDescription>
+        <EffectDescription>Silver, Alchemical: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes and vampires.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">8</Sides>
+          <Bonus size="1">2</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Slash</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Good</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Longsword</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Longsword</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Longsword</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Undead Bane 9</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">10</Sides>
+              <Energy>Bane</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Undead Bane 9</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">10</Sides>
+              <Energy>Bane</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Holy 9</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">10</Sides>
+              <Energy>Holy</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Holy 9</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">10</Sides>
+              <Energy>Holy</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Fiery 9</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Fire</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Fiery 9</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">9</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Fire</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Equipment</Bonus>
+            <DR>Silver</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Longsword</Weapon>
+        <DamageType>Slashing</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>Red</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Legendary Stygian Wrath</Name>
+        <Icon>Orb_LegendaryStygianWrath</Icon>
+        <Description>The discord of Shavarath flickers within your hands.</Description>
+        <DropLocation>Quest: The Same Old Song</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Spellcasting Implement +29: Passive: +29 implement bonus to Universal spell power.</EffectDescription>
+        <EffectDescription>+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 Orb bonus to all saving throws, as well as Acid, Cold, Electric, Fire and Sonic resistances.</EffectDescription>
+        <EffectDescription>Insightful Nullification +107: Passive: +107 Insight Bonus to Negative/Poison Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Negative Lore +18%: +18% Insight Bonus to Negative/Poison Spells chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Sinister Chill: Whenever you cast a Negative or Cold spell, you gain +50 Temporary Spell Points that last for 30 seconds. This can only trigger once every 45 seconds.</EffectDescription>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Orb</Weapon>
+        <DamageType>Slashing</DamageType>
+        <AttackModifier>Intelligence</AttackModifier>
+        <DamageModifier>Charisma</DamageModifier>
+        <EquipmentSlot>
+          <Weapon2/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>UniversalSpellPower</Type>
+          <Bonus>Implement</Bonus>
+          <Amount>29</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Orb</Bonus>
+          <Amount>15</Amount>
+          <Stance>Blocking</Stance>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>EnergyResistance</Type>
+          <Bonus>Orb</Bonus>
+          <Amount>15</Amount>
+          <Stance>Blocking</Stance>
+          <Energy>Acid</Energy>
+          <Energy>Cold</Energy>
+          <Energy>Electric</Energy>
+          <Energy>Fire</Energy>
+          <Energy>Sonic</Energy>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>107</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>18</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (Ins IWC)</Type>
+          <SelectedAugment>+10 Insightful Intelligence</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Legendary Celestial Ruby Ring</Name>
+        <Icon>Ring_LegendaryCelestialRubyRing</Icon>
+        <Description>A blazing ruby is embedded into this ring.</Description>
+        <DropLocation>Quest: The Same Old Song</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Stunning +23: +23 Enhancement bonus to the DC of your Stunning Blow/Fist abilities.</EffectDescription>
+        <EffectDescription>Accuracy +33: Passive: +33 Competence bonus to Attack rolls.</EffectDescription>
+        <EffectDescription>Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for incorporeal targets. Enemy attacks have a 10% chance to miss you due to your incorpreality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>23</Amount>
+          <Tactical>Stun</Tactical>
+        </Effect>
+        <Effect>
+          <Type>AttackBonus</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>33</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>5</Amount>
+          <Skill>Hide</Skill>
+          <Skill>Move Silently</Skill>
+        </Effect>
+        <Effect>
+          <Type>Incorpreality</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>GhostTouch</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>1</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (SDI)</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Ring1>
+      <Ring2>
+        <Name>Legendary Ring of Fall's Decay</Name>
+        <Icon>Ring_LegendaryRingOfFallsDecay</Icon>
+        <Description>The decay beckons you.</Description>
+        <DropLocation>U48 Quest: Make Believe</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Acid Lore +31%: Passive: Your Acid gain a +31% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Corrosion +214: Passive: +214 Equipment Bonus to Acid Spell Power.</EffectDescription>
+        <EffectDescription>Void Lore +31%: Passive: Your Negative/Poison energy spells gain a +31% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Nullification +214: Passive: +214 Equipment bonus to Negative/Poison (Necrotic) Spell Power.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>31</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>214</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>31</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>214</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Ring2>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

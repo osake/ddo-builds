@@ -1,0 +1,1975 @@
+<DDOCharacterData>
+  <Character>
+    <Name/>
+    <Alignment>Lawful Good</Alignment>
+    <Race>Dragonborn</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>36</AvailableSpend>
+      <StrSpend>10</StrSpend>
+      <DexSpend>5</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>0</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>5</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>200</GuildLevel>
+    <ApplyGuildBuffs/>
+    <StrTome>8</StrTome>
+    <DexTome>8</DexTome>
+    <ConTome>8</ConTome>
+    <IntTome>8</IntTome>
+    <WisTome>8</WisTome>
+    <ChaTome>8</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Past Life: Alchemist</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Alchemist</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Alchemist</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Artificer</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Bard</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Cleric</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Druid</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Favored Soul</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Monk</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Wizard</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warlock</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warlock</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Sorcerer</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Rogue</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Ranger</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Paladin</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Orc</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Paladin</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Aasimar Scourge</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Purple Dragon Knight</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Purple Dragon Knight</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Purple Dragon Knight</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Agents of Argonnesson Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Agents of Argonnesson Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Gate Keepers Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Gate Keepers Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>House Deneith Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>House Deneith Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>House Jorasco Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>House Jorasco Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Keepers of a Feather Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Purple Dragon Knight Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Purple Dragon Knight Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Sharn City Council Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Sharn City Council Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Summer Court Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Summer Court Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Summer Court Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Keepers of a Feather Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Keepers of a Feather Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Free Agents Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Free Agents Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Harpers Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Harpers Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Harpers Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Twelve Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>The Twelve Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Tome of Destiny</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Universal Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Spell Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Spell Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Spell Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Harper Agent Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Vistani Knife Fighter Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Centered</Stances>
+      <Stances>Lawful</Stances>
+      <Stances>Good</Stances>
+      <Stances>Dragonborn</Stances>
+    </ActiveStances>
+    <Level4>Strength</Level4>
+    <Level8>Strength</Level8>
+    <Level12>Strength</Level12>
+    <Level16>Strength</Level16>
+    <Level20>Strength</Level20>
+    <Level24>Strength</Level24>
+    <Level28>Strength</Level28>
+    <Class1>Monk</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Dragonborn</TreeName>
+      <TreeName>Henshin Mystic</TreeName>
+      <TreeName>Falconry</TreeName>
+      <TreeName>Shintao</TreeName>
+      <TreeName>Ninja Spy</TreeName>
+      <TreeName>Vistani Knife Fighter</TreeName>
+      <TreeName>Harper Agent</TreeName>
+    </SelectedEnhancementTrees>
+    <Tier5Tree>Henshin Mystic</Tier5Tree>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>12</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Draconic Ancestry: Red</FeatName>
+          <Type>DragonbornRacial</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Power Attack</FeatName>
+          <Type>MonkBonus</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Dodge</FeatName>
+          <Type>MonkBonus</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Mobility</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Path of Inevitable Dominion: Fists of Darkness</FeatName>
+          <Type>MonkPhilosophy</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Swords to Plowshares</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Spring Attack</FeatName>
+          <Type>MonkBonus6</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Bludgeoning Weapons</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>5</SkillPointsAvailable>
+      <SkillPointsSpent>5</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Completionist</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Diplomacy</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Martial Arts</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Overwhelming Critical</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Two Handed Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>25</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Blinding Speed</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Two Weapon Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Dire Charge</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>28</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Scion of Arborea</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <EnhancementSpendInTree>
+      <TreeName>Dragonborn</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornCore2</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornCore4</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornExtraActionBoost</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">4 5 6</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornResilienceI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornHardScales</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DragonbornMemoryOfFlight</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Falconry</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore1</EnhancementName>
+        <Selection>Summon Raven</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconRugged</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconOutInNature</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconActionBoostSprint</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore2</EnhancementName>
+        <Selection>Strength</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Shintao</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoReedInTheWind</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoExemplar</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoElementalKiStrikes</EnhancementName>
+        <Selection>Unbalancing Strike</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">6</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoSmiteTaintedCreature</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoJadeStrike</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoIronSkin</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">10 11 12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoConditioning</EnhancementName>
+        <Ranks>2</Ranks>
+        <BuyIndex size="2">13 14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoAbilityScoreI</EnhancementName>
+        <Selection>+1 Constitution</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoTombOfJade</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Henshin Mystic</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMAnimalForms</EnhancementName>
+        <Selection>Way of the Elegant Crane</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMHenshinStaffTrainingI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMElementalWordsI</EnhancementName>
+        <Selection>All-Consuming Flame</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMElementalKiStrikes</EnhancementName>
+        <Selection>Fists of Iron</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMQuickStrike</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMHenshinStaffTrainingII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMElementalWordsII</EnhancementName>
+        <Selection>Porous Soul</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMLightingTheCandle</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">11 12 13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMElementalWordsIII</EnhancementName>
+        <Selection>Static Charge</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMHenshinStaffTrainingIII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMEmbraceTheVoid</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMFocus</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMHenshinStaffTrainingIV</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMElementalWordsIV</EnhancementName>
+        <Selection>Winter's Touch</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">20</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMAbilityScoreI</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMVoidStrike</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMHenshinStaffTrainingV</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">24</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMStaffSpecialization</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">25</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMBalanceInDawn</EnhancementName>
+        <Selection>Henshin Mystic: Shadows Cannot Exist Without Light</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">26</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">27</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">28</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <ActiveEpicDestiny/>
+    <EpicCompletionist/>
+    <FatePoints>31</FatePoints>
+    <EpicDestinySpendInTree>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DraconicCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Exalted Angel</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ExaltedCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Fury of the Wild</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FOTWCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GOFCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadnoughtCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PrimalCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Magister</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MagisterCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadowCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Shiradi Champion</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShiradiCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <EpicDestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UnyieldingCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+    </EpicDestinySpendInTree>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <TwistOfFate>
+      <Tier>0</Tier>
+    </TwistOfFate>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
