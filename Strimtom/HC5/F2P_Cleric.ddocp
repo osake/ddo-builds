@@ -1,0 +1,1217 @@
+<DDOCharacterData>
+  <Character>
+    <Name/>
+    <Alignment>Neutral</Alignment>
+    <Race>Dwarf</Race>
+    <AbilitySpend>
+      <AvailableSpend>28</AvailableSpend>
+      <StrSpend>4</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>6</ConSpend>
+      <IntSpend>2</IntSpend>
+      <WisSpend>8</WisSpend>
+      <ChaSpend>6</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Centered</Stances>
+      <Stances>True Neutral</Stances>
+      <Stances>Dwarf</Stances>
+      <Stances>Angelic Form</Stances>
+    </ActiveStances>
+    <Level4>Wisdom</Level4>
+    <Level8>Wisdom</Level8>
+    <Level12>Wisdom</Level12>
+    <Level16>Wisdom</Level16>
+    <Level20>Wisdom</Level20>
+    <Level24>Wisdom</Level24>
+    <Level28>Wisdom</Level28>
+    <Class1>Cleric</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Dwarf</TreeName>
+      <TreeName>Divine Disciple</TreeName>
+      <TreeName>Radiant Servant</TreeName>
+      <TreeName>Warpriest</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeName>Exalted Angel</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Divine Disciple</Tier5Tree>
+    <U51Destiny_Tier5Tree>Exalted Angel</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Follower of Aureon</FeatName>
+          <Type>FollowerOf</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Sun Domain Tier I</FeatName>
+          <Type>Domain</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Sun Domain Tier II</FeatName>
+          <Type>DomainFeat</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Aureon's Instruction</FeatName>
+          <Type>Deity</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Empower Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Focus: Evocation</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Sun Domain Tier III</FeatName>
+          <Type>DomainFeat</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Spell Focus: Evocation</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Sun Domain Tier IV</FeatName>
+          <Type>DomainFeat</Type>
+          <LevelTrainedAt>13</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Heighten Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Cleric</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wellspring of Power</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Light</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Intensify Spell</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Fire</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Burst of Glacial Wrath</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of Celestia</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Bless</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Command</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Nimbus of Light</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Remove Fear</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>1</Level>
+      <SpellName>Shield of Faith</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>2</Level>
+      <SpellName>Deific Vengeance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>2</Level>
+      <SpellName>Resist Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>2</Level>
+      <SpellName>Soundburst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>2</Level>
+      <SpellName>Spawn Screen</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>3</Level>
+      <SpellName>Prayer</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>3</Level>
+      <SpellName>Protection From Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>3</Level>
+      <SpellName>Remove Curse</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>3</Level>
+      <SpellName>Searing Light</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>4</Level>
+      <SpellName>Death Ward</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>4</Level>
+      <SpellName>Divine Power</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>4</Level>
+      <SpellName>Freedom of Movement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>4</Level>
+      <SpellName>Holy Smite</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>4</Level>
+      <SpellName>Shield of Faith, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>5</Level>
+      <SpellName>Break Enchantment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>5</Level>
+      <SpellName>Divine Punishment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>5</Level>
+      <SpellName>Flame Strike</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>5</Level>
+      <SpellName>True Seeing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>6</Level>
+      <SpellName>Cometfall</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>6</Level>
+      <SpellName>Greater Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>6</Level>
+      <SpellName>Heal</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>6</Level>
+      <SpellName>Heroes' Feast</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>6</Level>
+      <SpellName>Word of Recall</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>7</Level>
+      <SpellName>Destruction</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>7</Level>
+      <SpellName>Greater Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>7</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>7</Level>
+      <SpellName>Restoration, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>7</Level>
+      <SpellName>Spell Resistance, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>8</Level>
+      <SpellName>Death Ward, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>8</Level>
+      <SpellName>Fire Storm</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>8</Level>
+      <SpellName>Holy Aura</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>8</Level>
+      <SpellName>Inflict Critical Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>8</Level>
+      <SpellName>Summon Monster VIII</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>9</Level>
+      <SpellName>Celestial Bombardment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>9</Level>
+      <SpellName>Divine Wrath</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>9</Level>
+      <SpellName>Energy Drain</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>9</Level>
+      <SpellName>Implosion</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Cleric</Class>
+      <Level>9</Level>
+      <SpellName>Summon Monster IX</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Radiant Servant</TreeName>
+      <TreeVersion>3</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>RSLCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLDivineAidI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLAltruism</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">2 3 4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLExtraTurning</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLBliss</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RSLAbilityScoreI</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">11</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Dwarf</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfChildOfTheMountain</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 7</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Divine Disciple</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore1</EnhancementName>
+        <Selection>Divine Emissary of Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDPropheticZenith</EnhancementName>
+        <Selection>Nimbus of Light</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellCriticalsI</EnhancementName>
+        <Selection>Spell Critical: Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellpowerI</EnhancementName>
+        <Selection>Spellpower: Universal</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore3</EnhancementName>
+        <Selection>Sun Bolt</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellpowerII</EnhancementName>
+        <Selection>Spellpower: Universal</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">10 11 12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellpowerIII</EnhancementName>
+        <Selection>Spellpower: Universal</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">13 14 15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellCriticalsII</EnhancementName>
+        <Selection>Spell Critical: Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellCriticalsIII</EnhancementName>
+        <Selection>Spell Critical: Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore4</EnhancementName>
+        <Selection>Sunbeam</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDWisdomI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDWisdomII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">20</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDSpellCriticalsIV</EnhancementName>
+        <Selection>Spell Critical: Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDPropheticZenithIII</EnhancementName>
+        <Selection>Holy Smite</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">22 23 24</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDDCOrSpellpower</EnhancementName>
+        <Selection>Spell DC: Evocation</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">25</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore5</EnhancementName>
+        <Selection>Sunburst</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">26</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDDCOrSpellpowerII</EnhancementName>
+        <Selection>Spell DC: Evocation</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">27</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDDivineEmpowerment</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">28</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDPropheticZenithIV</EnhancementName>
+        <Selection>Flame Strike</Selection>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+        <BuyIndex size="3">29 30 31</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDCore6</EnhancementName>
+        <Selection>Transcend Light</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">32</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDEfficientMetamagicI</EnhancementName>
+        <Selection>Efficient Quicken</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">33 34 35</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DDEfficientMetamagicIII</EnhancementName>
+        <Selection>Efficient Maximize</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">36 37 38</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Exalted Angel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelAngelicForm</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelAvengingMagic</EnhancementName>
+        <Selection>Sun Pillar</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelBaneOfUndeath</EnhancementName>
+        <Ranks>2</Ranks>
+        <BuyIndex size="2">3 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelSavingGrace</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelHolyPresence</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelPurityOfMindSoul</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">11 12 13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelNobleAffinity</EnhancementName>
+        <Selection>Mass Cure Moderate Wounds</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelAngelicSpellFocus</EnhancementName>
+        <Selection>Evocation</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">15 16 17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelShadowsUponYou</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelMetamagicAttunement</EnhancementName>
+        <Selection>Enhanced Metamagics: Maximize</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">19 20 21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelAngelicSoul</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelHolyCommand</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelBloodAndRadiance</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">24</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelSubtleFlame</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">25 26 27</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelEnhancedAngelicSpellFocus</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+        <BuyIndex size="3">28 29 30</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelHeavenlyMagic</EnhancementName>
+        <Selection>Holy Fireball</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">31</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelMetamagicAttunementII</EnhancementName>
+        <Selection>Epic Improved Intensify</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">32</BuyIndex>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore1</EnhancementName>
+        <Selection>Draconic Bloodline: Red</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationArcaneStudies</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">1 2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonhide</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">4 9 11</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCoalescence</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationScalesOfTheDragon</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">12</BuyIndex>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
