@@ -1,0 +1,1486 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Strimtom's Vile Alchemist of Flowers</Name>
+    <Alignment>Lawful Good</Alignment>
+    <Race>Shadar-Kai</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>2</StrSpend>
+      <DexSpend>4</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>10</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Harper Agent Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Vistani Knife Fighter Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Universal Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Lawful</Stances>
+      <Stances>Good</Stances>
+      <Stances>Shadar-Kai</Stances>
+      <Stances>Centered</Stances>
+    </ActiveStances>
+    <Level4>Intelligence</Level4>
+    <Level8>Intelligence</Level8>
+    <Level12>Intelligence</Level12>
+    <Level16>Intelligence</Level16>
+    <Level20>Intelligence</Level20>
+    <Level24>Intelligence</Level24>
+    <Level28>Intelligence</Level28>
+    <Class1>Rogue</Class1>
+    <Class2>Alchemist</Class2>
+    <Class3>Monk</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Shadar-Kai</TreeName>
+      <TreeName>Vile Chemist</TreeName>
+      <TreeName>Vistani Knife Fighter</TreeName>
+      <TreeName>Harper Agent</TreeName>
+      <TreeName>Apothecary</TreeName>
+      <TreeName>Bombardier</TreeName>
+      <TreeName>Mechanic</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeName>Legendary Dreadnought</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Vistani Knife Fighter</Tier5Tree>
+    <U51Destiny_Tier5Tree>Grandmaster of Flowers</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>48</SkillPointsAvailable>
+      <SkillPointsSpent>48</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Single Weapon Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Haggle</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Swim</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Swim</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Swim</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Swim</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Battalion Brew</FeatName>
+          <Type>AlchemistBonus</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Precision</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Single Weapon Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Insightful Courage</FeatName>
+          <Type>AlchemistBonus</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Piercing Weapons</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>MonkBonus</Type>
+          <LevelTrainedAt>12</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Liquid Luck</FeatName>
+          <Type>AlchemistBonus</Type>
+          <LevelTrainedAt>13</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>9</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Adept of Forms</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Single Weapon Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>AlchemistBonus</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Alchemist</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Balance</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Master of Forms</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Single Weapon Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Grandmaster of Forms</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Doublestrike</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Fortitude</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Elusive Target</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Offhand Versatility</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of the Astral Plane</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <EnhancementSpendInTree>
+      <TreeName>Shadar-Kai</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Vistani Knife Fighter</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RapidAttack</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniHasteBoost</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerIII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeadlyBlades</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">11</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingIII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingIV</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerIV</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DoubleDaggers</EnhancementName>
+        <Selection>Single Dagger</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GiftedI</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GiftedII</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingV</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerV</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">20</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniBlessedBlades</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Vendetta</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore6</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">24</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Harper Agent</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HarperCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HarperEnchantment</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TravelersToughness</EnhancementName>
+        <Ranks>2</Ranks>
+        <BuyIndex size="2">2 3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HarperKnowTheAngles</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">4 5 6</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Vile Chemist</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>VileCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileStiffenSkin</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileDeadlyPoisonI</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">2</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileMagicalSubtlety</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">3</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileDeadlyPoisonII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VilePoisonedAttack</EnhancementName>
+        <Selection>Poisoned Strike</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileWaveOfPoison</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">10 11 20</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileDeadlyPoisonIII</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileAbilityI</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileEnvenomTheHeart</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">14</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileDeadlyPoisonIV</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">15</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileAbilityII</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileWillfulAmbition</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">17</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileUnbreakableAmbition</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">18</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileCore4</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VileCore5</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">21</BuyIndex>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSerenity</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrikeWithPoise</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">2 3 4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersGrandmasterStrikes</EnhancementName>
+        <Selection>Drifting Lotus</Selection>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">5 6 7</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore2</EnhancementName>
+        <Selection>Adamantine</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersADanceOfFlowers</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSereneMercy</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">10 11 12</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore3</EnhancementName>
+        <Selection>Good</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">13</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersFlowOfWater</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">14 15 16</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersTheFlickeringFlame</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">17 18 19</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrengthOfStone</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">20 21 22</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersEpicStrikeUpgrades</EnhancementName>
+        <Selection>Lotus Bloom</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">23</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersTheDelightOfChaos</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">24 25 26</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersEverythingIsNothing</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">27</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSplitTheSoul</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">28</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersBeyondTheCenter</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+        <BuyIndex size="3">29 30 31</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersImposingForce</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+        <BuyIndex size="1">32</BuyIndex>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore1</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">0</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerStealthy</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">1</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCoverOfDarkness</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">2 3 4</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore2</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">5</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerDanceInTheDark</EnhancementName>
+        <Ranks>3</Ranks>
+        <BuyIndex size="3">6 7 8</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerLithe</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">9</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore3</EnhancementName>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">10</BuyIndex>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerShadowcaster</EnhancementName>
+        <Selection>Shadowstriker</Selection>
+        <Ranks>1</Ranks>
+        <BuyIndex size="1">11</BuyIndex>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

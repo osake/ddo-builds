@@ -59,6 +59,11 @@
         <Type>Favor</Type>
         <LevelTrainedAt>0</LevelTrainedAt>
       </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Vistani Knife Fighter Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
     </SpecialFeats>
     <ActiveStances>
       <Stances>Cloth Armor</Stances>
@@ -81,10 +86,16 @@
       <TreeName>Assassin</TreeName>
       <TreeName>Thief-Acrobat</TreeName>
       <TreeName>Vistani Knife Fighter</TreeName>
-      <TreeName>No selection</TreeName>
+      <TreeName>Mechanic</TreeName>
       <TreeName>No selection</TreeName>
       <TreeName>No selection</TreeName>
     </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedDestinyTrees>
     <Tier5Tree>Assassin</Tier5Tree>
     <LevelTraining>
       <Class>Rogue</Class>
@@ -573,28 +584,27 @@
         <BuyIndex size="1">20</BuyIndex>
       </TrainedEnhancement>
     </EnhancementSpendInTree>
-    <ActiveEpicDestiny/>
     <FatePoints>5</FatePoints>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
     <ActiveGear>Standard</ActiveGear>
     <EquippedGear>
       <Name>Standard</Name>
       <SentientJewel>
         <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
       </SentientJewel>
     </EquippedGear>
     <Notes/>

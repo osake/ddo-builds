@@ -83,6 +83,12 @@
       <TreeName>No selection</TreeName>
       <TreeName>No selection</TreeName>
     </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedDestinyTrees>
     <Tier5Tree>Eldritch Knight (Wiz)</Tier5Tree>
     <LevelTraining>
       <Class>Wizard</Class>
@@ -758,7 +764,13 @@
       <Class>Epic</Class>
       <SkillPointsAvailable>0</SkillPointsAvailable>
       <SkillPointsSpent>0</SkillPointsSpent>
-      <TrainedFeats/>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Single Weapon Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
     </LevelTraining>
     <LevelTraining>
       <Class>Epic</Class>
@@ -788,13 +800,7 @@
       <Class>Epic</Class>
       <SkillPointsAvailable>0</SkillPointsAvailable>
       <SkillPointsSpent>0</SkillPointsSpent>
-      <TrainedFeats>
-        <TrainedFeat>
-          <FeatName>Perfect Single Weapon Fighting</FeatName>
-          <Type>EpicDestinyFeat</Type>
-          <LevelTrainedAt>25</LevelTrainedAt>
-        </TrainedFeat>
-      </TrainedFeats>
+      <TrainedFeats/>
     </LevelTraining>
     <LevelTraining>
       <Class>Epic</Class>
@@ -824,13 +830,7 @@
       <Class>Epic</Class>
       <SkillPointsAvailable>0</SkillPointsAvailable>
       <SkillPointsSpent>0</SkillPointsSpent>
-      <TrainedFeats>
-        <TrainedFeat>
-          <FeatName>Dire Charge</FeatName>
-          <Type>EpicDestinyFeat</Type>
-          <LevelTrainedAt>28</LevelTrainedAt>
-        </TrainedFeat>
-      </TrainedFeats>
+      <TrainedFeats/>
     </LevelTraining>
     <LevelTraining>
       <Class>Epic</Class>
@@ -1293,552 +1293,7 @@
         <BuyIndex size="1">14</BuyIndex>
       </TrainedEnhancement>
     </EnhancementSpendInTree>
-    <ActiveEpicDestiny>Fatesinger</ActiveEpicDestiny>
     <FatePoints>25</FatePoints>
-    <EpicDestinySpendInTree>
-      <TreeName>Divine Crusader</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DivineCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Draconic Incarnation</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DraconicCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Dragonhide</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Exalted Angel</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ExaltedCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>EndlessFaith</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Fatesinger</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FateCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FirstHarmonicChord</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>SirensSong</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">9</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>BoundFate</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">10 11 12</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Reign</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">13 14 15</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GrimFate</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">16 17 18</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MartialHymn</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">19</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FourthHarmonicChord</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">20 24 28</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Bladesong</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">21</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Masquerade</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">22</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>TheFifthChord</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">23</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MetamagicAttunementII</EnhancementName>
-        <Selection>Intensify</Selection>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">25</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>TurnOfTheTide</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">26</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GreaterShout</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">27</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Fury of the Wild</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>FOTWCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Grandmaster of Flowers</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GOFCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Legendary Dreadnought</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>DreadnoughtCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Magister</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MagisterCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Primal Avatar</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>PrimalCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Shadowdancer</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShadowCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Acrobatic</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Technician</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">9 10 11</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>Lithe</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">12 13 14</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>MeldIntoDarkness</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">15 16 17</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>GrimPrecision</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">18 19 20</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Shiradi Champion</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>ShiradiCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <EpicDestinySpendInTree>
-      <TreeName>Unyielding Sentinel</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore1</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">0</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore2</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">1</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore3</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">2</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore4</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">3</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore5</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">4</BuyIndex>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>UnyieldingCore6</EnhancementName>
-        <Ranks>1</Ranks>
-        <BuyIndex size="1">5</BuyIndex>
-      </TrainedEnhancement>
-    </EpicDestinySpendInTree>
-    <TwistOfFate>
-      <Tier>3</Tier>
-      <TrainedEnhancement>
-        <EnhancementName>MeldIntoDarkness</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">15 16 17</BuyIndex>
-      </TrainedEnhancement>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>3</Tier>
-      <TrainedEnhancement>
-        <EnhancementName>GrimPrecision</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">18 19 20</BuyIndex>
-      </TrainedEnhancement>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>1</Tier>
-      <TrainedEnhancement>
-        <EnhancementName>Dragonhide</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>1</Tier>
-      <TrainedEnhancement>
-        <EnhancementName>EndlessFaith</EnhancementName>
-        <Ranks>3</Ranks>
-        <BuyIndex size="3">6 7 8</BuyIndex>
-      </TrainedEnhancement>
-    </TwistOfFate>
-    <TwistOfFate>
-      <Tier>0</Tier>
-    </TwistOfFate>
     <ActiveGear>Standard</ActiveGear>
     <EquippedGear>
       <Name>Standard</Name>
@@ -1850,8 +1305,8 @@
         <MinLevel>29</MinLevel>
         <EffectDescription>Fire Shield (Cold): You permanently benefit from Fire Shield(Cold) which proects you from Fire Damage and harms those who attack you. You are permanently warded against Fire Shield(Hot)</EffectDescription>
         <EffectDescription>Paragon Cerulean Wave: This powerful magical implement hums in your hands and resonates with icy magic. Spells you cast have a chance of freezing your targets in a bloack of solid ice.</EffectDescription>
-        <EffectDescription>Spell Focus Mastery +7: Passive: +7 Equipment bonus to the DC of all spells.</EffectDescription>
-        <EffectDescription>Insightful Spell Focus Mastery +4: Passive: +4 Insight bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Spell Focus Mastery +4: Passive: +4 Equipment bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Insightful Spell Focus Mastery +2: Passive: +2 Insight bonus to the DC of all spells.</EffectDescription>
         <EquipmentSlot>
           <Helmet/>
         </EquipmentSlot>
@@ -1859,13 +1314,13 @@
         <Effect>
           <Type>SpellDC</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>7</Amount>
+          <Amount>4</Amount>
           <School>All</School>
         </Effect>
         <Effect>
           <Type>SpellDC</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>4</Amount>
+          <Amount>2</Amount>
           <School>All</School>
         </Effect>
         <ItemAugment>
@@ -1885,8 +1340,8 @@
         <DropLocation>Quest: House of Pain</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>True Seeing: Passive: You gain the benefit of the spell True Seeing</EffectDescription>
-        <EffectDescription>Armor-Piercing +33: +33 Enhancement bonus to bypass enemy fortification.</EffectDescription>
-        <EffectDescription>Deadly +17: +17 Competence bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Armor-Piercing +20: +20 Enhancement bonus to bypass enemy fortification.</EffectDescription>
+        <EffectDescription>Deadly +10: +10 Competence bonus to weapon damage.</EffectDescription>
         <EffectDescription>Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.</EffectDescription>
         <EquipmentSlot>
           <Necklace/>
@@ -1901,12 +1356,12 @@
         <Effect>
           <Type>FortificationBypass</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>33</Amount>
+          <Amount>20</Amount>
         </Effect>
         <Effect>
           <Type>DamageBonus</Type>
           <Bonus>Competence</Bonus>
-          <Amount>17</Amount>
+          <Amount>10</Amount>
           <Weapon>All</Weapon>
         </Effect>
         <ItemAugment>
@@ -1925,33 +1380,33 @@
         <Description>The deeper you look, the heavier it feels...</Description>
         <DropLocation>U46: Quest: Rosemary's Ballad</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Quality Intelligence +5: Passive: +5 Quality Bonus to Intelligence.</EffectDescription>
-        <EffectDescription>Insightful Negative Healing Amplification +43: +43 Insight Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
-        <EffectDescription>Quality Negative Healing Amplification +22: +22 Quality Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
-        <EffectDescription>False Life +81: This item grants the wearer +81 enhancement bonus to maximum health.</EffectDescription>
+        <EffectDescription>Quality Intelligence +3: Passive: +3 Quality Bonus to Intelligence.</EffectDescription>
+        <EffectDescription>Insightful Negative Healing Amplification +27: +27 Insight Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
+        <EffectDescription>Quality Negative Healing Amplification +14: +14 Quality Bonus to your vulnerability to Negative spells or effects. This increases the amount by which you are healed from Negative Energy if you are Undead.</EffectDescription>
+        <EffectDescription>False Life +50: This item grants the wearer +50 enhancement bonus to maximum health.</EffectDescription>
         <EquipmentSlot>
           <Trinket/>
         </EquipmentSlot>
         <Effect>
           <Type>AbilityBonus</Type>
           <Bonus>Quality</Bonus>
-          <Amount>5</Amount>
+          <Amount>3</Amount>
           <Ability>Intelligence</Ability>
         </Effect>
         <Effect>
           <Type>NegativeHealingAmplification</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>43</Amount>
+          <Amount>27</Amount>
         </Effect>
         <Effect>
           <Type>NegativeHealingAmplification</Type>
           <Bonus>Quality</Bonus>
-          <Amount>22</Amount>
+          <Amount>14</Amount>
         </Effect>
         <Effect>
           <Type>FalseLife</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>81</Amount>
+          <Amount>50</Amount>
         </Effect>
         <ItemAugment>
           <Type>Blue</Type>
@@ -1969,10 +1424,10 @@
         <Description>This cloak is best borne on the shoulders of those seeking vengeance.</Description>
         <DropLocation>Quest: Into the Mists</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Constitution +19: Passive: +19 Enhancement Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Constitution +13: Passive: +13 Enhancement Bonus to Constitution.</EffectDescription>
         <EffectDescription>Raging Resilience: While Raged, +4 Rage Bonus to Fortitude Saves</EffectDescription>
-        <EffectDescription>Doublestrike +22%: +22% Enhancement bonus to Doublestrike chance.</EffectDescription>
-        <EffectDescription>Dodge Bonus +19%: +19% Enhancement bonus to Dodge.</EffectDescription>
+        <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Dodge Bonus +13%: +13% Enhancement bonus to Dodge.</EffectDescription>
         <EquipmentSlot>
           <Cloak/>
         </EquipmentSlot>
@@ -1980,7 +1435,7 @@
         <Effect>
           <Type>AbilityBonus</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>19</Amount>
+          <Amount>13</Amount>
           <Ability>Constitution</Ability>
         </Effect>
         <Effect>
@@ -1996,12 +1451,12 @@
         <Effect>
           <Type>Doublestrike</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>22</Amount>
+          <Amount>15</Amount>
         </Effect>
         <Effect>
           <Type>DodgeBonus</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>19</Amount>
+          <Amount>13</Amount>
         </Effect>
         <ItemAugment>
           <Type>Green</Type>
@@ -2019,9 +1474,9 @@
         <Description>The sweet smell of the autumn wind follows you.</Description>
         <DropLocation>U48 Any Feywild Quest</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Intelligence +22: Passive: +22 Enhancement Bonus to Intelligence.</EffectDescription>
-        <EffectDescription>Magical Sheltering +59: This item provides a +59 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
-        <EffectDescription>Natural Armor Bonus +22: Natural Armor bonus to AC.</EffectDescription>
+        <EffectDescription>Intelligence +14: Passive: +14 Enhancement Bonus to Intelligence.</EffectDescription>
+        <EffectDescription>Magical Sheltering +36: This item provides a +36 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Natural Armor Bonus +14: Natural Armor bonus to AC.</EffectDescription>
         <EffectDescription>Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.</EffectDescription>
         <EquipmentSlot>
           <Belt/>
@@ -2031,18 +1486,18 @@
         <Effect>
           <Type>AbilityBonus</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>22</Amount>
+          <Amount>14</Amount>
           <Ability>Intelligence</Ability>
         </Effect>
         <Effect>
           <Type>MRR</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>59</Amount>
+          <Amount>36</Amount>
         </Effect>
         <Effect>
           <Type>NaturalArmor</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>22</Amount>
+          <Amount>14</Amount>
         </Effect>
         <Effect>
           <Type>AdditionalSpellPointCost</Type>
@@ -2073,8 +1528,8 @@
         <Description>Peer into the gloom of the unknown.</Description>
         <DropLocation>Quest: Thralls of the Fungus Lord</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Potency +154: Passive: +154 Equipment Bonus to Universal Spell Power.</EffectDescription>
-        <EffectDescription>Insightful Potency +77: Passive: +77 Insight Bonus to Universal Spell Power.</EffectDescription>
+        <EffectDescription>Potency +98: Passive: +98 Equipment Bonus to Universal Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Potency +49: Passive: +49 Insight Bonus to Universal Spell Power.</EffectDescription>
         <EffectDescription>Efficient Metamagic - Empower II: The additional spell point cost for using the Empower Metamagic feat is reduced by 2 SP.</EffectDescription>
         <EffectDescription>Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.</EffectDescription>
         <EquipmentSlot>
@@ -2084,13 +1539,13 @@
         <Effect>
           <Type>SpellPower</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>154</Amount>
+          <Amount>98</Amount>
           <SpellPower>All</SpellPower>
         </Effect>
         <Effect>
           <Type>SpellPower</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>77</Amount>
+          <Amount>49</Amount>
           <SpellPower>All</SpellPower>
         </Effect>
         <Effect>
@@ -2121,10 +1576,10 @@
         <Description>Come for the hammer, stay for the fist.</Description>
         <DropLocation>Quest: Blown Deadline</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Insightful Doublestrike +11%: +11% Insight bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Insightful Doublestrike +6%: +6% Insight bonus to Doublestrike chance.</EffectDescription>
         <EffectDescription>Cannith Combat Infusion: Your ranged and melee attacks have a chance to cause this item to inject a Cannith Combat Infusion into your bloodstream. For the next ten seconds, this will grant a +4 Alchemical bonus to Strength, Constitution and Dexterity, as well as a 5% Alchemical bonus to your chance to doublestrike and a +2 Alchemical bonus to Armor Class.</EffectDescription>
-        <EffectDescription>Seeker +21: Passive: +21 Enhancement Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
-        <EffectDescription>Insightful Deadly +8: +8 Insight bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Seeker +13: Passive: +13 Enhancement Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EffectDescription>Insightful Deadly +4: +4 Insight bonus to weapon damage.</EffectDescription>
         <EquipmentSlot>
           <Gloves/>
         </EquipmentSlot>
@@ -2132,18 +1587,18 @@
         <Effect>
           <Type>Doublestrike</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>11</Amount>
+          <Amount>6</Amount>
         </Effect>
         <Effect>
           <Type>Seeker</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>21</Amount>
+          <Amount>13</Amount>
           <Weapon>All</Weapon>
         </Effect>
         <Effect>
           <Type>DamageBonus</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>8</Amount>
+          <Amount>4</Amount>
           <Weapon>All</Weapon>
         </Effect>
         <ItemAugment>
@@ -2162,10 +1617,10 @@
         <Description>These boots are perfect for navigating extreme weather.</Description>
         <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Insightful Constitution +10: Passive: +10 Insight Bonus to Constitution.</EffectDescription>
-        <EffectDescription>Quality Constitution +5: Passive: +5 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Constitution +3: Passive: +3 Quality Bonus to Constitution.</EffectDescription>
         <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
-        <EffectDescription>Fortitude Save +17: This item gives a +17 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EffectDescription>Fortitude Save +10: This item gives a +10 Resistance bonus to your Fortitude save.</EffectDescription>
         <EquipmentSlot>
           <Boots/>
         </EquipmentSlot>
@@ -2173,13 +1628,13 @@
         <Effect>
           <Type>AbilityBonus</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>10</Amount>
+          <Amount>6</Amount>
           <Ability>Constitution</Ability>
         </Effect>
         <Effect>
           <Type>AbilityBonus</Type>
           <Bonus>Quality</Bonus>
-          <Amount>5</Amount>
+          <Amount>3</Amount>
           <Ability>Constitution</Ability>
         </Effect>
         <Effect>
@@ -2190,7 +1645,7 @@
         <Effect>
           <Type>SaveBonus</Type>
           <Bonus>Resistance</Bonus>
-          <Amount>17</Amount>
+          <Amount>10</Amount>
           <Save>Fortitude</Save>
         </Effect>
         <ItemAugment>
@@ -2210,9 +1665,9 @@
         <DropLocation>U48 Quest: Immortality Lessons</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for incorporeal targets. Enemy attacks have a 10% chance to miss you due to your incorpreality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.</EffectDescription>
-        <EffectDescription>Protection +17: Passive: +17 Deflection Bonus to Armor Class.</EffectDescription>
-        <EffectDescription>Vitality +72: Passive: +72 Vitality bonus to Hit points.</EffectDescription>
-        <EffectDescription>Quality False Life +20: This item grants the wearer +20 quality bonus to maximum health.</EffectDescription>
+        <EffectDescription>Protection +10: Passive: +10 Deflection Bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Vitality +44: Passive: +44 Vitality bonus to Hit points.</EffectDescription>
+        <EffectDescription>Quality False Life +12: This item grants the wearer +12 quality bonus to maximum health.</EffectDescription>
         <EquipmentSlot>
           <Bracers/>
         </EquipmentSlot>
@@ -2238,17 +1693,17 @@
         <Effect>
           <Type>ACBonus</Type>
           <Bonus>Deflection</Bonus>
-          <Amount>17</Amount>
+          <Amount>10</Amount>
         </Effect>
         <Effect>
           <Type>Hitpoints</Type>
           <Bonus>Vitality</Bonus>
-          <Amount>72</Amount>
+          <Amount>44</Amount>
         </Effect>
         <Effect>
           <Type>FalseLife</Type>
           <Bonus>Quality</Bonus>
-          <Amount>20</Amount>
+          <Amount>12</Amount>
         </Effect>
         <ItemAugment>
           <Type>Green</Type>
@@ -2267,10 +1722,10 @@
         <DropLocation>Quest: Thralls of the Fungus Lord</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
-        <EffectDescription>Fortification +214%: Passive: +214% Enhancement Bonus to Fortification.</EffectDescription>
-        <EffectDescription>Physical Sheltering +54: This item provides a +54 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
-        <EffectDescription>Healing Amplification +85: +85 Competence Bonus to your incoming Positive healing.</EffectDescription>
-        <EffectDescription>False Life +81: This item grants the wearer +81 enhancement bonus to maximum health.</EffectDescription>
+        <EffectDescription>Fortification +142%: Passive: +142% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Healing Amplification +53: +53 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>False Life +50: This item grants the wearer +50 enhancement bonus to maximum health.</EffectDescription>
         <Requirements>
           <RequiresNoneOf>
             <Requirement>
@@ -2289,7 +1744,7 @@
         <Effect>
           <Type>MaxDexBonus</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>10</Amount>
+          <Amount>14</Amount>
         </Effect>
         <Effect>
           <Type>ACBonus</Type>
@@ -2304,22 +1759,22 @@
         <Effect>
           <Type>Fortification</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>214</Amount>
+          <Amount>142</Amount>
         </Effect>
         <Effect>
           <Type>PRR</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>54</Amount>
+          <Amount>33</Amount>
         </Effect>
         <Effect>
           <Type>HealingAmplification</Type>
           <Bonus>Competence</Bonus>
-          <Amount>85</Amount>
+          <Amount>53</Amount>
         </Effect>
         <Effect>
           <Type>FalseLife</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>81</Amount>
+          <Amount>50</Amount>
         </Effect>
         <ItemAugment>
           <Type>Green</Type>
@@ -2337,12 +1792,12 @@
         <Description>This weapon was designed to serve the Morninglord, and has been blessed with unimaginable power... and something else?</Description>
         <DropLocation>Any Ravenloft quest</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Damage and Type 5[1d8+2] + 15 Slash, Good, Magic</EffectDescription>
+        <EffectDescription>Damage and Type 5[1d8+2] + 15 Slash, Good, Silver, Magic</EffectDescription>
         <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
         <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
-        <EffectDescription>Undead Bane 9: Those that have did must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 9d10 bane damage vs. Undead</EffectDescription>
-        <EffectDescription>Holy 9: This weapon deals an additional 9d10 Holy damage</EffectDescription>
-        <EffectDescription>Fiery 9: This effect causes the edges of this weapon to burn with enchanted flames, dealing 9d6 Fire damage on each hit</EffectDescription>
+        <EffectDescription>Undead Bane 6: Those that have did must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 6d10 bane damage vs. Undead</EffectDescription>
+        <EffectDescription>Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.</EffectDescription>
+        <EffectDescription>Fiery 6: This effect causes the edges of this weapon to burn with enchanted flames, dealing 6d6 Fire damage on each hit</EffectDescription>
         <EffectDescription>Silver, Alchemical: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes and vampires.</EffectDescription>
         <Dice>
           <Number size="1">1</Number>
@@ -2393,66 +1848,66 @@
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Undead Bane 9</DisplayName>
+            <DisplayName>Undead Bane 6</DisplayName>
             <Type>WeaponOtherDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
+              <Number size="1">6</Number>
               <Sides size="1">10</Sides>
               <Energy>Bane</Energy>
             </Dice>
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Undead Bane 9</DisplayName>
+            <DisplayName>Undead Bane 6</DisplayName>
             <Type>WeaponOtherCriticalDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
+              <Number size="1">6</Number>
               <Sides size="1">10</Sides>
               <Energy>Bane</Energy>
             </Dice>
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Holy 9</DisplayName>
+            <DisplayName>Holy 6</DisplayName>
             <Type>WeaponOtherDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
-              <Sides size="1">10</Sides>
-              <Energy>Holy</Energy>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Good</Energy>
             </Dice>
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Holy 9</DisplayName>
+            <DisplayName>Holy 6</DisplayName>
             <Type>WeaponOtherCriticalDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
-              <Sides size="1">10</Sides>
-              <Energy>Holy</Energy>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Good</Energy>
             </Dice>
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Fiery 9</DisplayName>
+            <DisplayName>Fiery 6</DisplayName>
             <Type>WeaponOtherDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
+              <Number size="1">6</Number>
               <Sides size="1">6</Sides>
               <Energy>Fire</Energy>
             </Dice>
             <Weapon>All</Weapon>
           </Effect>
           <Effect>
-            <DisplayName>Fiery 9</DisplayName>
+            <DisplayName>Fiery 6</DisplayName>
             <Type>WeaponOtherCriticalDamageBonus</Type>
             <Bonus>Equipment</Bonus>
             <Dice>
-              <Number size="1">9</Number>
+              <Number size="1">6</Number>
               <Sides size="1">6</Sides>
               <Energy>Fire</Energy>
             </Dice>
@@ -2492,8 +1947,8 @@
         <MinLevel>29</MinLevel>
         <EffectDescription>Spellcasting Implement +29: Passive: +29 implement bonus to Universal spell power.</EffectDescription>
         <EffectDescription>+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 Orb bonus to all saving throws, as well as Acid, Cold, Electric, Fire and Sonic resistances.</EffectDescription>
-        <EffectDescription>Insightful Nullification +107: Passive: +107 Insight Bonus to Negative/Poison Spell Power.</EffectDescription>
-        <EffectDescription>Insightful Negative Lore +18%: +18% Insight Bonus to Negative/Poison Spells chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Insightful Nullification +71: Passive: +71 Insight Bonus to Negative/Poison Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Negative Lore +13%: +13% Insight Bonus to Negative/Poison Spells chance to Critical Hit.</EffectDescription>
         <EffectDescription>Sinister Chill: Whenever you cast a Negative or Cold spell, you gain +50 Temporary Spell Points that last for 30 seconds. This can only trigger once every 45 seconds.</EffectDescription>
         <CriticalMultiplier>2</CriticalMultiplier>
         <Weapon>Orb</Weapon>
@@ -2529,20 +1984,19 @@
         <Effect>
           <Type>SpellPower</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>107</Amount>
+          <Amount>71</Amount>
           <SpellPower>Negative</SpellPower>
           <SpellPower>Poison</SpellPower>
         </Effect>
         <Effect>
           <Type>SpellLore</Type>
           <Bonus>Insightful</Bonus>
-          <Amount>18</Amount>
+          <Amount>13</Amount>
           <SpellPower>Negative</SpellPower>
           <SpellPower>Poison</SpellPower>
         </Effect>
         <ItemAugment>
           <Type>Nearly Finished (Ins IWC)</Type>
-          <SelectedAugment>+10 Insightful Intelligence</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>Purple</Type>
@@ -2560,8 +2014,8 @@
         <Description>A blazing ruby is embedded into this ring.</Description>
         <DropLocation>Quest: The Same Old Song</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Stunning +23: +23 Enhancement bonus to the DC of your Stunning Blow/Fist abilities.</EffectDescription>
-        <EffectDescription>Accuracy +33: Passive: +33 Competence bonus to Attack rolls.</EffectDescription>
+        <EffectDescription>Stunning +15: +15 Enhancement bonus to the DC of your Stunning Blow/Fist abilities.</EffectDescription>
+        <EffectDescription>Accuracy +20: Passive: +20 Competence bonus to Attack rolls.</EffectDescription>
         <EffectDescription>Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for incorporeal targets. Enemy attacks have a 10% chance to miss you due to your incorpreality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.</EffectDescription>
         <EquipmentSlot>
           <Ring/>
@@ -2569,13 +2023,13 @@
         <Effect>
           <Type>TacticalDC</Type>
           <Bonus>Enhancement</Bonus>
-          <Amount>23</Amount>
+          <Amount>15</Amount>
           <Tactical>Stun</Tactical>
         </Effect>
         <Effect>
           <Type>AttackBonus</Type>
           <Bonus>Competence</Bonus>
-          <Amount>33</Amount>
+          <Amount>20</Amount>
           <Weapon>All</Weapon>
         </Effect>
         <Effect>
@@ -2615,10 +2069,10 @@
         <Description>The decay beckons you.</Description>
         <DropLocation>U48 Quest: Make Believe</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Acid Lore +31%: Passive: Your Acid gain a +31% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
-        <EffectDescription>Corrosion +214: Passive: +214 Equipment Bonus to Acid Spell Power.</EffectDescription>
-        <EffectDescription>Void Lore +31%: Passive: Your Negative/Poison energy spells gain a +31% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
-        <EffectDescription>Nullification +214: Passive: +214 Equipment bonus to Negative/Poison (Necrotic) Spell Power.</EffectDescription>
+        <EffectDescription>Acid Lore +21%: Passive: Your Acid gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Corrosion +142: Passive: +142 Equipment Bonus to Acid Spell Power.</EffectDescription>
+        <EffectDescription>Void Lore +21%: Passive: Your Negative/Poison energy spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Nullification +142: Passive: +142 Equipment bonus to Negative/Poison (Necrotic) Spell Power.</EffectDescription>
         <EquipmentSlot>
           <Ring/>
         </EquipmentSlot>
@@ -2626,26 +2080,26 @@
         <Effect>
           <Type>SpellLore</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>31</Amount>
+          <Amount>21</Amount>
           <SpellPower>Acid</SpellPower>
         </Effect>
         <Effect>
           <Type>SpellPower</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>214</Amount>
+          <Amount>142</Amount>
           <SpellPower>Acid</SpellPower>
         </Effect>
         <Effect>
           <Type>SpellLore</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>31</Amount>
+          <Amount>21</Amount>
           <SpellPower>Negative</SpellPower>
           <SpellPower>Poison</SpellPower>
         </Effect>
         <Effect>
           <Type>SpellPower</Type>
           <Bonus>Equipment</Bonus>
-          <Amount>214</Amount>
+          <Amount>142</Amount>
           <SpellPower>Negative</SpellPower>
           <SpellPower>Poison</SpellPower>
         </Effect>
@@ -2661,6 +2115,21 @@
       </Ring2>
       <SentientJewel>
         <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
       </SentientJewel>
     </EquippedGear>
     <Notes/>
