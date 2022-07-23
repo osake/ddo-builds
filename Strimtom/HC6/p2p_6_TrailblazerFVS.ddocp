@@ -1,0 +1,1043 @@
+<DDOCharacterData>
+  <Character>
+    <Name>$129 Favoured Soul Melee</Name>
+    <Alignment>Lawful Good</Alignment>
+    <Race>Tabaxi Trailblazer</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>8</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>6</ConSpend>
+      <IntSpend>6</IntSpend>
+      <WisSpend>8</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Centered</Stances>
+      <Stances>Lawful</Stances>
+      <Stances>Good</Stances>
+      <Stances>Tabaxi Trailblazer</Stances>
+      <Stances>Epic Defensive Fighting</Stances>
+      <Stances>Ocean Stance</Stances>
+      <Stances>Grandmaster of Flowers Destiny Mantle</Stances>
+      <Stances>Divine Will</Stances>
+      <Stances>Quicken</Stances>
+    </ActiveStances>
+    <Level4>Wisdom</Level4>
+    <Level8>Strength</Level8>
+    <Level12>Wisdom</Level12>
+    <Level16>Wisdom</Level16>
+    <Level20>Wisdom</Level20>
+    <Level24>Wisdom</Level24>
+    <Level28>Wisdom</Level28>
+    <Level32>Wisdom</Level32>
+    <Level36>Wisdom</Level36>
+    <Level40>Wisdom</Level40>
+    <Class1>Favored Soul</Class1>
+    <Class2>Monk</Class2>
+    <Class3>Rogue</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Tabaxi Trailblazer</TreeName>
+      <TreeName>War Soul</TreeName>
+      <TreeName>Henshin Mystic</TreeName>
+      <TreeName>Thief-Acrobat</TreeName>
+      <TreeName>Falconry</TreeName>
+      <TreeName>Beacon of Hope</TreeName>
+      <TreeName>Shintao</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeName>Divine Crusader</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>War Soul</Tier5Tree>
+    <U51Destiny_Tier5Tree>Grandmaster of Flowers</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Monk</Class>
+      <SkillPointsAvailable>24</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Discipline</FeatName>
+          <Type>MonkBonus</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>10</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Follower of Aureon</FeatName>
+          <Type>FollowerOf</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Knowledge of Battle</FeatName>
+          <Type>FavoredSoulBattle</Type>
+          <LevelTrainedAt>3</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Child of Faith</FeatName>
+          <Type>ChildOf</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Adept of Forms</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Fire</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>6</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Aureon's Instruction</FeatName>
+          <Type>Deity</Type>
+          <LevelTrainedAt>7</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Swords to Plowshares</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Stout of Heart</FeatName>
+          <Type>FavoredSoulHeart</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Electricity</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Beloved of the Divine</FeatName>
+          <Type>BelovedOf</Type>
+          <LevelTrainedAt>13</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Bludgeoning Weapons</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Cold</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>16</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Master of Forms</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Two Handed Fighting</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Grandmaster of Forms</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Doublestrike</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Elusive Target</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Fortitude</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of the Astral Plane</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Bless</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Obscuring Mist</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Shield of Faith</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Blur</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Remove Paralysis</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Spawn Screen</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Cure Serious Wounds</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Haste</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Prayer</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Death Ward</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Freedom of Movement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Shield of Faith, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Break Enchantment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Stalwart Pact</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>True Seeing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Cure Moderate Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Greater Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Heal</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Cure Serious Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Spell Resistance, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>8</Level>
+      <SpellName>Death Ward, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>8</Level>
+      <SpellName>Holy Aura</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>9</Level>
+      <SpellName>Divine Wrath</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Thief-Acrobat</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>TACore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TAThiefAcrobatics</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Henshin Mystic</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HMCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Tabaxi Trailblazer</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailCore2</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailSneakyStrikesI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailSharpClaws</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailCore4</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailHonedReflexes</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailWayfindersWeapons</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailFocusedAgility</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailSneakyStrikesII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailAttune</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailFastSprinter</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailWideSweep</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TabTrailSpringingPounce</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>War Soul</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulCore1</EnhancementName>
+        <Selection>Smite Foe (Melee)</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSRighteousWeaponsI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSDivineMight</EnhancementName>
+        <Selection>Divine Will</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSToughness</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSRighteousWeaponsII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSWallOfSteel</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSActionBoostHaste</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSRighteousWeaponsIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulAbilityScoreI</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSRighteousWeaponsIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSHolyStriker</EnhancementName>
+        <Selection>Holy Striker</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSAmelioratingStrike</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulAbilityScoreII</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSWrathfulWeapons</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSDivinePower</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WSDivineIntervention</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WarSoulCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Falconry</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore1</EnhancementName>
+        <Selection>Summon White Falcon</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconOutInNature</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconRugged</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore2</EnhancementName>
+        <Selection>Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconDivingShot</EnhancementName>
+        <Selection>Diving Strike</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconWatchTheCenter</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconStrikeForTheEyes</EnhancementName>
+        <Selection>Strike for the Eyes</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconConditioning</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Shintao</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShintaoCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Beacon of Hope</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHGoodHope</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrikeWithPoise</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSerenity</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersADanceOfFlowers</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersHailOfBlows</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore2</EnhancementName>
+        <Selection>Adamantine</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersGrandmasterStrikes</EnhancementName>
+        <Selection>Drifting Lotus</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore3</EnhancementName>
+        <Selection>Good</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSereneMercy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersFlowOfWater</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersTheFlickeringFlame</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore4</EnhancementName>
+        <Selection>Enlightening Philosophy</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersEpicStrikeUpgrades</EnhancementName>
+        <Selection>Lotus Bloom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersTheDelightOfChaos</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersEverythingIsNothing</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSplitTheSoul</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersLegendaryFlurryOfBlows</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersImposingForce</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersBeyondTheCenter</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerAssassinate</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerTechnician</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtShrugOffPunishment</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtPushThroughTheLine</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtExtraActionBoosts</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

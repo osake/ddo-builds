@@ -1,0 +1,1406 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Wisdom Vanguard LOL</Name>
+    <Alignment>Neutral</Alignment>
+    <Race>Aasimar</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>2</StrSpend>
+      <DexSpend>6</DexSpend>
+      <ConSpend>6</ConSpend>
+      <IntSpend>2</IntSpend>
+      <WisSpend>10</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Aasimar</Stances>
+      <Stances>True Neutral</Stances>
+      <Stances>Heavy Armor</Stances>
+      <Stances>Sword and Board</Stances>
+      <Stances>Warhammer</Stances>
+      <Stances>Shield</Stances>
+      <Stances>Large Shield</Stances>
+      <Stances>Precision</Stances>
+      <Stances>Aasimar: Protector Bond</Stances>
+      <Stances>Aasimar: Ascendant Bond: Protector</Stances>
+      <Stances>Holy Mantle</Stances>
+      <Stances>Epic Defensive Fighting</Stances>
+    </ActiveStances>
+    <Level4>Wisdom</Level4>
+    <Level8>Wisdom</Level8>
+    <Level12>Wisdom</Level12>
+    <Level16>Wisdom</Level16>
+    <Level20>Wisdom</Level20>
+    <Level24>Wisdom</Level24>
+    <Level28>Wisdom</Level28>
+    <Level32>Wisdom</Level32>
+    <Level36>Wisdom</Level36>
+    <Level40>Wisdom</Level40>
+    <Class1>Fighter</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Aasimar</TreeName>
+      <TreeName>Kensei</TreeName>
+      <TreeName>Vanguard</TreeName>
+      <TreeName>Falconry</TreeName>
+      <TreeName>Stalwart Defender</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeName>Shadowdancer</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Vanguard</Tier5Tree>
+    <U51Destiny_Tier5Tree>Divine Crusader</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Aasimar: Protector Bond</FeatName>
+          <Type>AasimarBond</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Weapon Focus: Bludgeoning Weapons</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Shield Bash</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Dodge</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Knight's Training</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>3</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Mobility</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Weapon Specialization: Bludgeoning Weapons</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Bludgeoning Weapons</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>7</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spring Attack</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>9</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Tactical Mastery</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Shield Mastery</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>13</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Precision</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Tactical Supremacy</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>15</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Tactical Combatant</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Heavy Armor Champion</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>2</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>2</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Heavy Armor Master</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>19</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Overwhelming Critical</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Shield Mastery</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Weapon Specialization: Bludgeoning Weapons</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Doublestrike</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Embodiment of Law</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Discipline</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of the Ethereal Plane</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <EnhancementSpendInTree>
+      <TreeName>Falconry</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore1</EnhancementName>
+        <Selection>Summon White Falcon</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconOutInNature</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconRugged</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconDivingShot</EnhancementName>
+        <Selection>Diving Strike</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconWatchTheCenter</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconKillerInstinctII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconStrikeForTheEyes</EnhancementName>
+        <Selection>Strike for the Eyes</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Kensei</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiCore1</EnhancementName>
+        <Selection>Kensei Focus: Picks and Hammers</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiWeaponGroupSecializationI</EnhancementName>
+        <Selection>Kensei Focus: Picks and Hammers</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiActionBoostI</EnhancementName>
+        <Selection>Haste Boost</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiWeaponGroupSecializationII</EnhancementName>
+        <Selection>Kensei Focus: Picks and Hammers</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiImprovedDodge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KenseiCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Vanguard</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldSpecializationI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldSmash</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldSpecializationII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardStunningShield</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardMissileShield</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardBrutality</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldSpecializationIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardFatalBulwark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldSpecializationIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldCharge</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardMyrmidonsEdge</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldToTheFace</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardArmoredStrength</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardBrutalImpact</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardShieldRush</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VanguardCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Aasimar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ImprovedRecoveryI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore2</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FightTheWickedI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TrueResilience</EnhancementName>
+        <Selection>Protector</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore4</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FightTheWickedII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ImprovedRecoveryII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FightTheWickedIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineForm</EnhancementName>
+        <Selection>Protector</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderConsecration</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderSpearOfLight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderHolyMantle</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderShieldOfLight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderHowDareYouStrikeMe</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCrusade</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderAxiomOfFaith</EnhancementName>
+        <Selection>Onatar's Blessing</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderStrikeWithPoise</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderHeavenlyPresence</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderBlessedStrikes</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCowerBeforeMe</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderBringDownWrath</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderLawOfTheDivine</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderBlessedBlades</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelAttackAndDefend</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelRenewal</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelLegendaryShieldMastery</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrikeWithPoise</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersDisciplesStudies</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersHailOfBlows</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore2</EnhancementName>
+        <Selection>Adamantine</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore3</EnhancementName>
+        <Selection>Good</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Armor>
+        <Name>Legendary Enforcer's Plate</Name>
+        <Icon>HeavyArmor_LegendaryEnforcersPlate</Icon>
+        <Description>"You lookin' at me? Huh?"</Description>
+        <DropLocation>Quest: The Wraithcallers</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Fortification +142%: Passive: +142% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Healing Amplification +53: +53 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>False Life +50: This item grants the wearer +50 enhancement bonus to maximum health.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Heavy</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Part of the Family</SetBonus>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>-5</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailure</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>35</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>25</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>142</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>53</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>50</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Legendary Ol' Reliable</Name>
+        <Icon>Warhammer_LegendaryOlReliable</Icon>
+        <Description>This hefty wooden hammer is everything you need to repair and maintain a seaworthy vessel.</Description>
+        <DropLocation>Quest: The Curse and the Captive Crustacean, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Damage and Type 5[1d8+2] + 15 Bludgeon, Good, Evil, Lawful, Chaotic, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 20 x3</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <EffectDescription>Force Blast 6: This weapon ripples with intense force, dealing 6d6 Force damage on a successful hit, and an additional 6d6 Force damage on a critical hit.</EffectDescription>
+        <EffectDescription>Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)</EffectDescription>
+        <EffectDescription>Melee Alacrity 15%: The wielder of this item gain a 15% Enhancement bonus to melee attack speed.</EffectDescription>
+        <EffectDescription>Human Bane 6: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 6d10 bane damage vs. Humans.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">8</Sides>
+          <Bonus size="1">2</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Bludgeon</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Good</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Evil</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Lawful</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Chaotic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Warhammer</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>1</Amount>
+            <Weapon>Warhammer</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>3</Amount>
+            <Weapon>Warhammer</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Force Blast 6</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Force</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Force Blast 6</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Equipment</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Force</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Human Bane 6</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Stacking</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Bane</Energy>
+            </Dice>
+            <Stance>Human</Stance>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Human Bane 6</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Stacking</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Bane</Energy>
+            </Dice>
+            <Stance>Human</Stance>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>3</CriticalMultiplier>
+        <Weapon>Warhammer</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>Alacrity</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>10</Amount>
+          <WeaponClass>Melee</WeaponClass>
+        </Effect>
+        <ItemAugment>
+          <Type>Red</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Legendary Ferrocrystal Shield</Name>
+        <Icon>LargeShield_LegendaryFerrocrystalShield</Icon>
+        <Description>This crystalline shield can damage enemies with an entropic power. It seems to contain subtle magnetic energies.</Description>
+        <DropLocation>Quest: Combatting Corruption</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Damage and Type 5[1d10+6] + 15 Bludgeon, Cold Iron, Magic, Crystal</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x3</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with the improved critical feat. Vorpal strikes by this weapon also bypass all Fortification.</EffectDescription>
+        <EffectDescription>Shield Bashing +20%: +20% Enhancement bonus to Increased chance of Secondary Shield Bash</EffectDescription>
+        <EffectDescription>Entropic 6: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 6d6 untyped damage on each hit.</EffectDescription>
+        <EffectDescription>Quality Magical Sheltering +8: This item provides a +8 Quality bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Crystal: Rumor has it that the crystal this item is made from comes from Riedra and has certain qualities in common with crysteel. Crysteel weapons are able to overcome the protective damage reduction of many Quori creatures, which can be resistant to other weapons. Spell failure chances for armors and shields made from cystal are also decreased by 10%</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">10</Sides>
+          <Bonus size="1">6</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>3</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Impact V</DisplayName>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Enhancement</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Impact V</DisplayName>
+            <Type>Keen</Type>
+            <Bonus>Equipment</Bonus>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Entropic 6</DisplayName>
+            <Type>WeaponOtherDamageBonus</Type>
+            <Bonus>Enhancement</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Untyped</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <DisplayName>Entropic 6</DisplayName>
+            <Type>WeaponOtherCriticalDamageBonus</Type>
+            <Bonus>Enhancement</Bonus>
+            <Dice>
+              <Number size="1">6</Number>
+              <Sides size="1">6</Sides>
+              <Energy>Untyped</Energy>
+            </Dice>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>3</CriticalMultiplier>
+        <Weapon>Large Shield</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Summer</SetBonus>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>27</Amount>
+        </Effect>
+        <Effect>
+          <Type>BlockingDR</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>19</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>-1</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailureShields</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>SecondaryShieldBash</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <DisplayName>Crystal Shield</DisplayName>
+          <Type>ArcaneSpellFailureShields</Type>
+          <Bonus>Stacking</Bonus>
+          <Amount>-10</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

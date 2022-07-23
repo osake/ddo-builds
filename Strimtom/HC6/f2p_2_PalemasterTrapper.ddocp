@@ -1,0 +1,1537 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Strimtom's Palemaster Trapper</Name>
+    <Alignment>Neutral</Alignment>
+    <Race>Dwarf</Race>
+    <AbilitySpend>
+      <AvailableSpend>28</AvailableSpend>
+      <StrSpend>2</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>10</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Centered</Stances>
+      <Stances>True Neutral</Stances>
+      <Stances>Dwarf</Stances>
+      <Stances>Shroud of the Lich</Stances>
+      <Stances>Frostlight</Stances>
+      <Stances>Embolden Spell</Stances>
+      <Stances>Eschew Materials</Stances>
+      <Stances>Empower</Stances>
+      <Stances>Extend</Stances>
+      <Stances>Maximize</Stances>
+      <Stances>Quicken</Stances>
+    </ActiveStances>
+    <Level4>Intelligence</Level4>
+    <Level8>Intelligence</Level8>
+    <Level12>Intelligence</Level12>
+    <Level16>Intelligence</Level16>
+    <Level20>Intelligence</Level20>
+    <Level24>Intelligence</Level24>
+    <Level28>Intelligence</Level28>
+    <Level32>Intelligence</Level32>
+    <Level36>Intelligence</Level36>
+    <Level40>Intelligence</Level40>
+    <Class1>Wizard</Class1>
+    <Class2>Rogue</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Dwarf</TreeName>
+      <TreeName>Pale Master</TreeName>
+      <TreeName>Eldritch Knight (Wiz)</TreeName>
+      <TreeName>Mechanic</TreeName>
+      <TreeName>Assassin</TreeName>
+      <TreeName>Thief-Acrobat</TreeName>
+      <TreeName>Arch-Mage</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Magus of the Eclipse</TreeName>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Fatesinger</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Pale Master</Tier5Tree>
+    <U51Destiny_Tier5Tree>Magus of the Eclipse</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>24</SkillPointsAvailable>
+      <SkillPointsSpent>24</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Repair</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Repair</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Repair</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Repair</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Jump</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>12</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Insightful Reflexes</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Focus: Necromancy</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Extend Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>6</SkillPointsAvailable>
+      <SkillPointsSpent>6</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>13</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Spell Focus: Necromancy</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Mental Toughness</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Empower Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>7</SkillPointsAvailable>
+      <SkillPointsSpent>7</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Mental Toughness</FeatName>
+          <Type>Metamagic</Type>
+          <LevelTrainedAt>16</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>8</SkillPointsAvailable>
+      <SkillPointsSpent>8</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Search</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Open Lock</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Disable Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wellspring of Power</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Negative</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Focus: Necromancy</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Embolden Spell</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of the Shadowfell</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Specialty: Enchantment</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Jump</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Master's Touch</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Shield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>1</Level>
+      <SpellName>Sonic Blast</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Blur</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Gust of Wind</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Invisibility</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Resist Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>2</Level>
+      <SpellName>Scorch</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Acid Blast</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Displacement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Fireball</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Haste</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Death Aura</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Dimension Door</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Fire Shield (Fire)</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Lesser Globe of Invulnerability</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>4</Level>
+      <SpellName>Negative Energy Burst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Ball Lightning</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Break Enchantment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Cone of Cold</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>5</Level>
+      <SpellName>Teleport</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Circle of Death</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Greater Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Greater Heroism</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Necrotic Ray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>6</Level>
+      <SpellName>Undeath to Death</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Delayed Blast Fireball</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Otto's Sphere of Dancing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Prismatic Spray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>7</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Otto's Irresistible Dance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Polar Ray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Sunburst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>8</Level>
+      <SpellName>Trap the Soul</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Hold Monster, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Meteor Swarm</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Wizard</Class>
+      <Level>9</Level>
+      <SpellName>Wail of the Banshee</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Dwarf</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DwarfChildOfTheMountain</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Pale Master</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNegativeEnergyConduit</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSkeletalKnight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNecroticTouch</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore2</EnhancementName>
+        <Selection>Shroud of the Lich</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore3</EnhancementName>
+        <Selection>Undead Shock</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNecroticBolt</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNegativeEnergyAdept</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleAbilityScoreI</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleSpellCriticalNegativeEnergyIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleUnholyAvatar</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore4</EnhancementName>
+        <Selection>+2 Necromancy DC</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleAbilityScoreII</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNecromanticFocus</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleAscendantShroud</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleNecroticBlast</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleCore5</EnhancementName>
+        <Selection>+2 Enchantment DC</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>PaleDarkDiscorporation</EnhancementName>
+        <Selection>Reactive Discorporation</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Eldritch Knight (Wiz)</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizImprovedMageArmor</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizToughness</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizBattleMage</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizImprovedShield</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizMysticWards</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizAbilityScoreI</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizArcaneBarrier</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>EKWizAbilityScoreII</EnhancementName>
+        <Selection>+1 Intelligence</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Mechanic</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>MechCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MechAwareness</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MechMechanics</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelRenewal</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Magus of the Eclipse</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusOfTheEclipseCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusFrostlight</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusMoonLance</EnhancementName>
+        <Selection>Gloomspear</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusImperceptibleCasting</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusOfTheEclipseCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusChillAura</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusMoonlight</EnhancementName>
+        <Selection>Dark Light of the Moon</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusOfTheEclipseCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusStarlight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusPiercingSpellcraft</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusLunarImbuement</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusPartialEclipse</EnhancementName>
+        <Selection>Evocation</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusGreaterBeams</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusOfTheEclipseCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusNullmagicStrike</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusEnhancedMetamagics</EnhancementName>
+        <Selection>Maximize</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusTotalEclipse</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusCosmos</EnhancementName>
+        <Selection>Moon's Shadow</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusTimeStop</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51MagusLunarPower</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore1</EnhancementName>
+        <Selection>Draconic Bloodline: Shadow</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonhide</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationArcaneStudies</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDraconicPerception</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDraconicSpellFocus</EnhancementName>
+        <Selection>Necromancy</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationScalesOfTheDragon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
