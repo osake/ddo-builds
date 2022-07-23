@@ -1,0 +1,1596 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Aura Warlock</Name>
+    <Alignment>Chaotic Neutral</Alignment>
+    <Race>Half-Elf</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>28</UserSelectedSpend>
+      <AvailableSpend>28</AvailableSpend>
+      <StrSpend>2</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>10</ConSpend>
+      <IntSpend>0</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>8</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Half-Elf</Stances>
+      <Stances>Chaotic</Stances>
+      <Stances>Eldritch Aura</Stances>
+      <Stances>Celestial Spirit</Stances>
+      <Stances>Mantle of the Sentinel</Stances>
+      <Stances>Maximize</Stances>
+      <Stances>Empower</Stances>
+      <Stances>Quicken</Stances>
+      <Stances>Intensify Spell</Stances>
+      <Stances>Medium Armor</Stances>
+      <Stances>Shield</Stances>
+      <Stances>Large Shield</Stances>
+    </ActiveStances>
+    <Level4>Constitution</Level4>
+    <Level8>Constitution</Level8>
+    <Level12>Constitution</Level12>
+    <Level16>Constitution</Level16>
+    <Level20>Constitution</Level20>
+    <Level24>Constitution</Level24>
+    <Level28>Constitution</Level28>
+    <Level32>Constitution</Level32>
+    <Level36>Constitution</Level36>
+    <Level40>Constitution</Level40>
+    <Class1>Warlock</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Half-Elf</TreeName>
+      <TreeName>Enlightened Spirit</TreeName>
+      <TreeName>Tainted Scholar</TreeName>
+      <TreeName>Soul Eater</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeName>Exalted Angel</TreeName>
+      <TreeName>Divine Crusader</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Enlightened Spirit</Tier5Tree>
+    <U51Destiny_Tier5Tree>Unyielding Sentinel</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Warlock: Pact: Great Old One</FeatName>
+          <Type>WarlockPact</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Half-Elf Dilettante: Paladin</FeatName>
+          <Type>Dilettante</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Empower Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Thought Shield</FeatName>
+          <Type>WarlockPactSaveBonus</Type>
+          <LevelTrainedAt>3</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Pact Magic: Knock</FeatName>
+          <Type>WarlockPactSpell</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Warlock: Entropic Ward</FeatName>
+          <Type>WarlockPactAbility</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Force of Personality</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Thought Shield</FeatName>
+          <Type>WarlockPactSaveBonus</Type>
+          <LevelTrainedAt>7</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Pact Magic: Phantasmal Killer</FeatName>
+          <Type>WarlockPactSpell</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Resistance of the Great Old One</FeatName>
+          <Type>WarlockResistance</Type>
+          <LevelTrainedAt>9</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Thought Shield</FeatName>
+          <Type>WarlockPactSaveBonus</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Pact Magic: Dominate Person</FeatName>
+          <Type>WarlockPactSpell</Type>
+          <LevelTrainedAt>13</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Warlock: Create Thrall</FeatName>
+          <Type>WarlockPactAbility</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Thought Shield</FeatName>
+          <Type>WarlockPactSaveBonus</Type>
+          <LevelTrainedAt>15</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Pact Magic: Mass Suggestion</FeatName>
+          <Type>WarlockPactSpell</Type>
+          <LevelTrainedAt>16</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Pact Magic: Power Word: Kill</FeatName>
+          <Type>WarlockPactSpell</Type>
+          <LevelTrainedAt>18</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Warlock</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Thought Shield</FeatName>
+          <Type>WarlockPactSaveBonus</Type>
+          <LevelTrainedAt>19</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Eldritch Blast</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Pact Dice</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Toughness</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Intensify Spell</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of Celestia</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Legendary Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>1</Level>
+      <SpellName>Jump</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>1</Level>
+      <SpellName>Master's Touch</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>2</Level>
+      <SpellName>Blur</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>2</Level>
+      <SpellName>Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>3</Level>
+      <SpellName>Dark Discorporation</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>3</Level>
+      <SpellName>Dimension Door</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>4</Level>
+      <SpellName>Evard's Black Tentacles</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>4</Level>
+      <SpellName>Teleport</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>5</Level>
+      <SpellName>Greater Teleport</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>6</Level>
+      <SpellName>Arcane Tempest</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Warlock</Class>
+      <Level>6</Level>
+      <SpellName>Wail of the Banshee</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Enlightened Spirit</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESSpiritualDefense</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESResilienceOfBody</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESSpiritualBastion</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESResistEnergies</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESPowerOfEnlightenmentLightI</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESShield</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESSpiritualWard</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESEldritchBurst</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESPowerOfEnlightenmentLightII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESSpiritualRetribution</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESBrilliance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESMediumArmorProficiency</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESSpiritBlast</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESShiningThrough</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESDisplacement</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WESCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Tainted Scholar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>TSCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSFeignedHealth</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSStrongPactI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSPlanarPower</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSEldritchFocus</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSUtterdarkBlast</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSStrongPactII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSStrongPactIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSAbilityScoreI</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSConfusion</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSStrongPactIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TSBewitchingBlast</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Soul Eater</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>SECore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SEConsume</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SETaintTheBlood</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SEHungryForDestructionI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SEFeedingFrenzy</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SECore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SETaintTheAura</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Half-Elf</TreeName>
+      <TreeVersion>1</TreeVersion>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelMantleOftheSemtinel</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelRenewal</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelKnightsChallenge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelSparkOfLife</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelHandsOfTheSentinel</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelLegendaryShieldMastery</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineBulwark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelHardenedPurpose</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelEndlessVigil</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelTheBestDefense</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelLightTheDark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDeificResilience</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelUndyingVanguard</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelStrengthOfVitality</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore1</EnhancementName>
+        <Selection>Thorn</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarEpicStrikes</EnhancementName>
+        <Selection>Carrion Swarm</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarRejuvenationCocoon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarPrimalChoice</EnhancementName>
+        <Selection>Shard Storm</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarThrive</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore2</EnhancementName>
+        <Selection>Heart</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarAtItsCreUpgradePrimalSpell</EnhancementName>
+        <Selection>At Its Core - Thorn</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Exalted Angel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelBornByFlame</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelBaneOfUndeath</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelSavingGrace</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelEndlessTurning</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ExaltedAngelCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Helmet>
+        <Name>Legendary Crown of Snow</Name>
+        <Icon>Helmet_LegendaryCrownOfFireflies</Icon>
+        <Description>A crown of packed snow and arcane magic, both beautful and cold.</Description>
+        <DropLocation>U48 Quest: Legend of the Lost Locket</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Fire Shield (Cold): You permanently benefit from Fire Shield(Cold) which proects you from Fire Damage and harms those who attack you. You are permanently warded against Fire Shield(Hot)</EffectDescription>
+        <EffectDescription>Paragon Cerulean Wave: This powerful magical implement hums in your hands and resonates with icy magic. Spells you cast have a chance of freezing your targets in a block of solid ice.</EffectDescription>
+        <EffectDescription>Spell Focus Mastery +4: Passive: +4 Equipment bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Insightful Spell Focus Mastery +2: Passive: +2 Insight bonus to the DC of all spells.</EffectDescription>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>4</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>2</Amount>
+          <School>All</School>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Legendary Pendant of the Sky</Name>
+        <Icon>Necklace_LegendaryPendantOfTheSky</Icon>
+        <Description>This weighty necklace carries energy from the sky.</Description>
+        <DropLocation>Quest: The Stone Crypt Chronicle, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Insightful Devotion +74: Passive: +74 Insightful Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Radiance +74: Passive: +74 Insight Bonus to Light and Alignment Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Nullification +74: Passive: +74 Insight Bonus to Negative/Poison Spell Power.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>74</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>74</Amount>
+          <SpellPower>Light/Alignment</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>74</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Cloak>
+        <Name>Legendary Hallowed Trail</Name>
+        <Icon>Cloak_LegendaryHallowedTrail</Icon>
+        <Description>Soft and silky cloth that flutters in the wind.</Description>
+        <DropLocation>Quest: House of Pain</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Radiance +142: Passive: +142 Equipment Bonus to Light and Alignment Spell Power.</EffectDescription>
+        <EffectDescription>Radiance Lore +21%: +21% Equipment Bonus to Light and Alignment Spells chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Evocation Focus +5: +5 Equipment bonus to the DC of Evocation spells.</EffectDescription>
+        <EffectDescription>Quality Spell Penetration +2: Passive: +2 Quality Bonus to Spell Penetration checks.</EffectDescription>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Flamecleansed Fury</SetBonus>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Light/Alignment</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Light/Alignment</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>5</Amount>
+          <School>Evocation</School>
+        </Effect>
+        <Effect>
+          <Type>SpellPenetrationBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Cloak>
+      <Gloves>
+        <Name>The Prince's Gauntlet</Name>
+        <Icon>Gloves_ThePrincesGauntlet</Icon>
+        <Description>This gauntlet would fit the Prince of Fost, and crries incredible powers of cold within.</Description>
+        <DropLocation>U48 Any Feywild Quest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Lifeblood of the Undead Prince: This artifact displays incedible regenerative abilities. +58 Competence Bonus to Healing, Repair, and Negative Healing Amplification.</EffectDescription>
+        <EffectDescription>Constitution +14: Passive: +14 Enhancement Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Resistance +2: +2 Quality bonus to all saves.</EffectDescription>
+        <EffectDescription>Quality Sheltering +9: This item provides a +9 Quality bonus to your Physical and Magical Resistance Ratings.</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Summer</SetBonus>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>RepairAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>58</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>58</Amount>
+        </Effect>
+        <Effect>
+          <Type>NegativeHealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>58</Amount>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>9</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>9</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Gloves>
+      <Boots>
+        <Name>Legendary Deepsnow Boots</Name>
+        <Icon>Boots_LegendaryDeepsnowBoots</Icon>
+        <Description>These boots are perfect for navigating extreme weather.</Description>
+        <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Constitution +3: Passive: +3 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
+        <EffectDescription>Fortitude Save +10: This item gives a +10 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Stacking</Bonus>
+          <Immunity>Freedom of Movement</Immunity>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>10</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Hallowed Castigators</Name>
+        <Icon>Bracers_LegendaryHallowedCastigators</Icon>
+        <Description>Shines in the moonlight with radiant energies.</Description>
+        <DropLocation>Quest: Blown Deadline</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Devotion +142: Passive: +142 Equipment Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Healing Lore +21%: Passive: Your Healing spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Insightful Sheltering +17: This item provides a +17 Insight bonus to your Physical and Magical Resistance Ratings.</EffectDescription>
+        <EffectDescription>Efficient Metamagic - Empower Healing II: The additional spell point cost for using the Empower Healing Metamagic feat is reduced by 2 SP.</EffectDescription>
+        <EquipmentSlot>
+          <Bracers/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Flamecleansed Fury</SetBonus>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>17</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>17</Amount>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>-2</Amount>
+          <Stance>Empower Healing</Stance>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Bracers>
+      <Armor>
+        <Name>Legendary Blessed Vestments</Name>
+        <Icon>MediumArmor_LegendaryBlessedVestments</Icon>
+        <Description>A feeling of peace surrounds you as this rests on your shoulders.</Description>
+        <DropLocation>Quest: Roll Call</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Fortification +142%: Passive: +142% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Healing Amplification +53: +53 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>False Life +50: This item grants the wearer +50 enhancement bonus to maximum health.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Medium</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Flamecleansed Fury</SetBonus>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>18</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>0</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>142</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>53</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>50</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <OffHand>
+        <Name>Legendary Giant's Platter</Name>
+        <Icon>LargeShield_GiantsPlatter</Icon>
+        <Description>One Giant's plate is another adventurer's treasure</Description>
+        <DropLocation>Quest: The Madness of Crowds</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Damage and Type 5[1d10+6] + 15 Bludgeon, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x3</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Magical Sheltering +33: This item provides a +33 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Natural Armor Bonus +13: Natural Armor bonus to AC.</EffectDescription>
+        <EffectDescription>Vitality +44: Passive: +44 Vitality bonus to Hit points.</EffectDescription>
+        <EffectDescription>Protection +10: Passive: +10 Deflection Bonus to Armor Class.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">10</Sides>
+          <Bonus size="1">6</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>3</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>3</CriticalMultiplier>
+        <Weapon>Large Shield</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>Seasons of Change Set</SetBonus>
+        <SetBonus>Wayward Warrior Set</SetBonus>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>23</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>NaturalArmor</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>13</Amount>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Vitality</Bonus>
+          <Amount>44</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Deflection</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Trace of Madness</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Legendary Ring of Fall's Decay</Name>
+        <Icon>Ring_LegendaryRingOfFallsDecay</Icon>
+        <Description>The decay beckons you.</Description>
+        <DropLocation>U48 Quest: Make Believe</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Acid Lore +21%: Passive: Your Acid gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Corrosion +142: Passive: +142 Equipment Bonus to Acid Spell Power.</EffectDescription>
+        <EffectDescription>Void Lore +21%: Passive: Your Negative/Poison energy spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Nullification +142: Passive: +142 Equipment bonus to Negative/Poison (Necrotic) Spell Power.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Negative</SpellPower>
+          <SpellPower>Poison</SpellPower>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring1>
+      <Ring2>
+        <Name>Legendary Nocturne Ring</Name>
+        <Icon>Ring_LegendaryNocturneRing</Icon>
+        <Description>Sing the song of death</Description>
+        <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Command +7: This item always appears brilliant and gleaming no matter what the conditions and despite all attempts to paint over it or obscure it. Coveted by military leaders of all sorts, it carries a powerful aura that grants a +7 insightful bonus to Charisma based skill checks. Command items make their owners very noticeable, imposing a -6 penalty on Hide checks. NOTE this is erroneously giving +10 in game</EffectDescription>
+        <EffectDescription>True Seeing: Passive: You gain the benefit of the spell True Seeing</EffectDescription>
+        <EffectDescription>Insightful Incite +52%: +52% Insight bonus to increased threat generated from melee damage.</EffectDescription>
+        <EffectDescription>Insightful Fortification +71%: Passive: +71% Insight Bonus to Fortification.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>10</Amount>
+          <Ability>Charisma</Ability>
+        </Effect>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Penalty</Bonus>
+          <Amount>-6</Amount>
+          <Skill>Hide</Skill>
+        </Effect>
+        <Effect>
+          <Type>TrueSeeing</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>1</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>ThreatBonusMelee</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>52</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>71</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring2>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

@@ -1,0 +1,1544 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Big old caster druid</Name>
+    <Alignment>Chaotic Neutral</Alignment>
+    <Race>Aasimar</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>4</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>2</IntSpend>
+      <WisSpend>10</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Feydark Illusionist Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Aasimar</Stances>
+      <Stances>Chaotic</Stances>
+      <Stances>Elder of Winter</Stances>
+      <Stances>Water Elemental</Stances>
+      <Stances>Aasimar: Protector Bond</Stances>
+      <Stances>Quicken</Stances>
+      <Stances>Empower</Stances>
+      <Stances>Embolden Spell</Stances>
+      <Stances>Maximize</Stances>
+      <Stances>Nature's Defense</Stances>
+      <Stances>Draconic Destiny Mantle</Stances>
+      <Stances>Eschew Materials</Stances>
+      <Stances>Heavy Armor</Stances>
+    </ActiveStances>
+    <Level4>Wisdom</Level4>
+    <Level8>Wisdom</Level8>
+    <Level12>Wisdom</Level12>
+    <Level16>Wisdom</Level16>
+    <Level20>Wisdom</Level20>
+    <Level24>Wisdom</Level24>
+    <Level28>Wisdom</Level28>
+    <Level32>Wisdom</Level32>
+    <Level36>Wisdom</Level36>
+    <Level40>Wisdom</Level40>
+    <Class1>Druid</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Aasimar</TreeName>
+      <TreeName>Season's Herald</TreeName>
+      <TreeName>Nature's Protector</TreeName>
+      <TreeName>Feydark Illusionist</TreeName>
+      <TreeName>Falconry</TreeName>
+      <TreeName>Nature's Warrior</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Shiradi Champion</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Season's Herald</Tier5Tree>
+    <U51Destiny_Tier5Tree>Draconic Incarnation</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>16</SkillPointsAvailable>
+      <SkillPointsSpent>16</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Aasimar: Protector Bond</FeatName>
+          <Type>AasimarBond</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Wolf</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Bear</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Empower Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Dire Bear</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>7</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Focus: Evocation</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Winter Wolf</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>10</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Spell Focus: Evocation</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Fire Elemental</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>12</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Water Elemental</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>16</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Hide</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Druid</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wellspring of Power</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Cold</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Burst of Glacial Wrath</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Embolden Spell</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Scion of the Plane of Water</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Epic Spell Focus: Evocation</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Specialty: Transmutation</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Jump</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Longstrider</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Magic Fang</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Maul</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Merfolk's Blessing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>1</Level>
+      <SpellName>Ram's Might</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>2</Level>
+      <SpellName>Align Fang</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>2</Level>
+      <SpellName>Gust of Wind</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>2</Level>
+      <SpellName>Hold Animal</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>2</Level>
+      <SpellName>Resist Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>3</Level>
+      <SpellName>Call Lightning</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>3</Level>
+      <SpellName>Neutralize Poison</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>3</Level>
+      <SpellName>Quench</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>3</Level>
+      <SpellName>Salt Ray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>3</Level>
+      <SpellName>Vigor</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>4</Level>
+      <SpellName>Cure Serious Wounds</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>4</Level>
+      <SpellName>Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>4</Level>
+      <SpellName>Freedom of Movement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>4</Level>
+      <SpellName>Ice Storm</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>4</Level>
+      <SpellName>Rising Fury</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>5</Level>
+      <SpellName>Animal Growth</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>5</Level>
+      <SpellName>Call Lightning Storm</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>5</Level>
+      <SpellName>Death Ward</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>5</Level>
+      <SpellName>Greater Vigor</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>5</Level>
+      <SpellName>Panacea</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>6</Level>
+      <SpellName>Fire Shield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>6</Level>
+      <SpellName>Greater Creeping Cold</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>6</Level>
+      <SpellName>Greater Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>6</Level>
+      <SpellName>Vigor, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>6</Level>
+      <SpellName>Word of Balance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>7</Level>
+      <SpellName>Elemental Toughness</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>7</Level>
+      <SpellName>Freezing Spray</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>7</Level>
+      <SpellName>Greater Vigor, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>7</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>7</Level>
+      <SpellName>Regenerate</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>8</Level>
+      <SpellName>Earthquake</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>8</Level>
+      <SpellName>Fires of Purity</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>8</Level>
+      <SpellName>Heal</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>8</Level>
+      <SpellName>Ice Flowers</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>8</Level>
+      <SpellName>Sunburst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>9</Level>
+      <SpellName>Anger of the Noonday Sun</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>9</Level>
+      <SpellName>Mantle of the Icy Soul</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>9</Level>
+      <SpellName>Regenerate, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>9</Level>
+      <SpellName>Storm of Vengeance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Druid</Class>
+      <Level>9</Level>
+      <SpellName>Tsunami</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Season's Herald</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHProduceFlame</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCreepingCold</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCallLightning</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHAbilityI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHSaltRay</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHStrengthOfTheSolstice</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHAbilityII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWordOfBalance</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHTimeAndTide</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWintersHeart</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHElementalMastery</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Aasimar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore2</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ImprovedRecoveryI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore4</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Nature's Protector</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>NPCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>NPImprovedNaturesDefenseI</EnhancementName>
+        <Selection>Enchanted Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>NPFeysBlessing</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>NPCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Feydark Illusionist</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkCore1</EnhancementName>
+        <Selection>White Tressym</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkStudyTheArcane</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkExplorer</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkCore2</EnhancementName>
+        <Selection>Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkYouveGotMyBack</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkRealityBulwark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FeydarkCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Falconry</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore1</EnhancementName>
+        <Selection>Summon White Falcon</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconOutInNature</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconRugged</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore2</EnhancementName>
+        <Selection>Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconActionBoostSprint</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconConditioning</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore1</EnhancementName>
+        <Selection>Draconic Bloodline: White</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationAttuneTheArcane</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationArcaneStudies</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonBreath</EnhancementName>
+        <Selection>White Dragon Breath</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationInevitable</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDauntingRoar</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDraconicSpellFocus</EnhancementName>
+        <Selection>Evocation</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationScalesOfTheDragon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationImproveDragonBreath</EnhancementName>
+        <Selection>Gaping Maw</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationPullFromTheWellspring</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonspeed</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationMetamagicAttunement</EnhancementName>
+        <Selection>Epic Improved Maximize</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationEnhancedDraconicSpellFocus</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationHellstorm</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonform</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore1</EnhancementName>
+        <Selection>Sky</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarEpicStrikes</EnhancementName>
+        <Selection>Storm Catcher</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarRejuvenationCocoon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarPrimalChoice</EnhancementName>
+        <Selection>Thunder Snow</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarThrive</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore2</EnhancementName>
+        <Selection>Heart</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarSpiritBoon</EnhancementName>
+        <Selection>Mind</Selection>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarAtItsCreUpgradePrimalSpell</EnhancementName>
+        <Selection>At Its Core - Sky</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarMagicOfTheOldWorld</EnhancementName>
+        <Selection>Transmutation</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Necklace>
+        <Name>Legendary Pendant of the Azure Sea</Name>
+        <Icon>Necklace_LegendaryPendantOfTheAzureSea</Icon>
+        <Description>This amulet has a twin, and seems cool to the touch.</Description>
+        <DropLocation>Quest: House of Rain</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Sea Attunement: While you are a Water Elemental, you gain bonuses to your Cold Spell's Caster Level, Spell Power and Critical Chance.</EffectDescription>
+        <EffectDescription>Glaciation +142: Passive: +142 Equipment Bonus to Cold Spell Power.</EffectDescription>
+        <EffectDescription>Ice Lore +21%: +21% Equipment Bonus to Cold Spells chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Hruit's Influence</SetBonus>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Cold</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Cold</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>-10</Amount>
+          <Percent/>
+        </Effect>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Gloves>
+        <Name>Legendary Sunstone Gauntlets</Name>
+        <Icon>Gloves_LegendarySunstoneGauntlets</Icon>
+        <Description>This... This is a pair of gloves tied to a rock.</Description>
+        <DropLocation>Quest: Best Laid Plans</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Physical Sheltering +16: This item provides a +16 Insight bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Devotion +142: Passive: +142 Equipment Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Healing Lore +21%: Passive: Your Healing spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Wizardry +269: Passive: +269 Enhancement Bonus to Spell Points. (If you have Sorcerer or Favored Soul levels, you gain additional spell points proportionate to the ratio of those levels to other classes).</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Hruit's Influence</SetBonus>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>16</Amount>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPoints</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>269</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Gloves>
+      <Armor>
+        <Name>Legendary Bronze Dragonscale Plate</Name>
+        <Icon>HeavyArmor_LegendaryBronzeDragonscalePlate</Icon>
+        <Description>This gorgeous Bronze Dragonscale armor is magically attuned and brilliantly reflective.</Description>
+        <DropLocation>Quest: The Magma Must Flow</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Fortification +142%: Passive: +142% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Healing Amplification +53: +53 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>False Life +50: This item grants the wearer +50 enhancement bonus to maximum health.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Heavy</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Hruit's Influence</SetBonus>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>-5</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailure</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>35</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>25</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>142</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>53</Amount>
+        </Effect>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>50</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
