@@ -1,0 +1,659 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Fun Tank Starter</Name>
+    <Alignment>Lawful Good</Alignment>
+    <Race>Aasimar</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>8</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>0</IntSpend>
+      <WisSpend>2</WisSpend>
+      <ChaSpend>8</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats/>
+    <ActiveStances>
+      <Stances>Empty Offhand</Stances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Lawful</Stances>
+      <Stances>Good</Stances>
+      <Stances>Aasimar</Stances>
+      <Stances>Aura of Good</Stances>
+      <Stances>Aura of Courage</Stances>
+    </ActiveStances>
+    <Level4>Strength</Level4>
+    <Level8>Strength</Level8>
+    <Level12>Strength</Level12>
+    <Level16>Strength</Level16>
+    <Level20>Strength</Level20>
+    <Level24>Strength</Level24>
+    <Level28>Strength</Level28>
+    <Level32>Strength</Level32>
+    <Level36>Strength</Level36>
+    <Level40>Strength</Level40>
+    <Class1>Paladin</Class1>
+    <Class2>Wizard</Class2>
+    <Class3>Fighter</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Aasimar</TreeName>
+      <TreeName>Knight of the Chalice</TreeName>
+      <TreeName>Sacred Defender</TreeName>
+      <TreeName>Vanguard</TreeName>
+      <TreeName>Shadowguard (Theorycrafted)</TreeName>
+      <TreeName>Arch-Mage</TreeName>
+      <TreeName>Eldritch Knight (Wiz)</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Knight of the Chalice</Tier5Tree>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Follower of Onatar</FeatName>
+          <Type>FollowerOf</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Aasimar: Fallen Bond</FeatName>
+          <Type>AasimarBond</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Power Attack</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Onatar's Forge</FeatName>
+          <Type>Deity</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Slashing Weapons</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Two Handed Fighting</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Force of Personality</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Paladin</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Wizard</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>1</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Use Magic Device</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>1</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>1</Level>
+      <SpellName>Bless</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>1</Level>
+      <SpellName>Lesser Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>2</Level>
+      <SpellName>Angelskin</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>2</Level>
+      <SpellName>Righteous Command</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>3</Level>
+      <SpellName>Prayer</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>4</Level>
+      <SpellName>Holy Sword</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Paladin</Class>
+      <Level>4</Level>
+      <SpellName>Zeal</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Knight of the Chalice</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCExtraSmite</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCImprovedSecondStrikes</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCDivineMight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCExaltedCleave</EnhancementName>
+        <Selection>Exalted Cleave</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCHolyCombatantII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCExaltedSmite</EnhancementName>
+        <Selection>Exalted Smite</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCAbilityScoreI</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCKnightsTraining</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCVigorOfLifeI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCAbilityScoreII</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCensureDemons</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCensureOutsiders</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCVigorOfLifeII</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCAvengingCleave</EnhancementName>
+        <Selection>Avenging Cleave</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCHolyRetribution</EnhancementName>
+        <Selection>Holy Retribution</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>KotCAscendancy</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Sacred Defender</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>SacredCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredImprovedSacredDefenseI</EnhancementName>
+        <Selection>Durable Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredExtraLayOnHands</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredImprovedSacredDefenseII</EnhancementName>
+        <Selection>Resilient Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredBulwarkAura</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredResistanceAura</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredGreaterSacredDefenseI</EnhancementName>
+        <Selection>Strong Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredAbilityScoreI</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredGreaterSacredDefenseII</EnhancementName>
+        <Selection>Hardy Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredSwiftDefense</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredAbilityScoreII</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SacredCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Aasimar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore2</EnhancementName>
+        <Selection>+1 Strength</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ImprovedRecoveryI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FightTheWickedI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FightTheWickedII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
