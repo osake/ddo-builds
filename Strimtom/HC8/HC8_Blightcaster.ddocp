@@ -1,0 +1,2190 @@
+<DDOCharacterData>
+  <Character>
+    <Name>HC8 Blightcaster Druid</Name>
+    <Alignment>Chaotic Neutral</Alignment>
+    <Race>Human</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>28</UserSelectedSpend>
+      <AvailableSpend>28</AvailableSpend>
+      <StrSpend>2</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>0</IntSpend>
+      <WisSpend>10</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Human</Stances>
+      <Stances>Chaotic</Stances>
+      <Stances>Mantle of Nature</Stances>
+      <Stances>Hive Master</Stances>
+      <Stances>Empower</Stances>
+      <Stances>Quicken</Stances>
+      <Stances>Maximize</Stances>
+      <Stances>Intensify Spell</Stances>
+      <Stances>Elder of Winter</Stances>
+      <Stances>Autumn Winds</Stances>
+      <Stances>Eschew Materials</Stances>
+      <Stances>Medium Armor</Stances>
+      <Stances>Club</Stances>
+      <Stances>Sword and Board</Stances>
+      <Stances>Shield</Stances>
+      <Stances>Small Shield</Stances>
+    </ActiveStances>
+    <Level4>Wisdom</Level4>
+    <Level8>Wisdom</Level8>
+    <Level12>Wisdom</Level12>
+    <Level16>Wisdom</Level16>
+    <Level20>Wisdom</Level20>
+    <Level24>Wisdom</Level24>
+    <Level28>Wisdom</Level28>
+    <Level32>Wisdom</Level32>
+    <Level36>Wisdom</Level36>
+    <Level40>Wisdom</Level40>
+    <Class1>Blight Caster</Class1>
+    <Class2>Unknown</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Human</TreeName>
+      <TreeName>Blight Caster</TreeName>
+      <TreeName>Season's Herald</TreeName>
+      <TreeName>Nature's Warrior</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+      <TreeName>No selection</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Shiradi Champion</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Blight Caster</Tier5Tree>
+    <U51Destiny_Tier5Tree>Draconic Incarnation</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>16</SkillPointsAvailable>
+      <SkillPointsSpent>16</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Maximize Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>HumanBonus</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Plague Wolf</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Biting Acid Imbue</FeatName>
+          <Type>BlightCasterToggleImbue</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Empower Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Thorn-Kin</FeatName>
+          <Type>KinForm</Type>
+          <LevelTrainedAt>3</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Hive Keeper</FeatName>
+          <Type>KinForm</Type>
+          <LevelTrainedAt>7</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Spell Focus: Conjuration</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Blighted Wolf</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>10</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Biting Poison Imbue</FeatName>
+          <Type>BlightCasterToggleImbue</Type>
+          <LevelTrainedAt>10</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Spell Focus: Conjuration</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Thorne Knight</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>12</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wild Shape: Hive Master</FeatName>
+          <Type>DruidWildShape</Type>
+          <LevelTrainedAt>16</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Blight Caster</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>4</SkillPointsSpent>
+      <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Spot</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Spell Craft</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Heal</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Wellspring of Power</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Shield Mastery</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Intensify Spell</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Acid</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Ruin</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Deific Warding</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Greater Ruin</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of the Plane of Earth</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Entangle</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Jump</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Longstrider</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Merfolk's Blessing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>1</Level>
+      <SpellName>Thorn Strike</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>2</Level>
+      <SpellName>Gust of Wind</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Restoration</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>2</Level>
+      <SpellName>Lesser Vigor</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>2</Level>
+      <SpellName>Melf's Acid Arrow</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>2</Level>
+      <SpellName>Splinterbolt</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>3</Level>
+      <SpellName>Acid Blast</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>3</Level>
+      <SpellName>Neutralize Poison</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>3</Level>
+      <SpellName>Poison</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>3</Level>
+      <SpellName>Spike Growth</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>3</Level>
+      <SpellName>Thorn Bloom</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>4</Level>
+      <SpellName>Acid Rain</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>4</Level>
+      <SpellName>Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>4</Level>
+      <SpellName>Freedom of Movement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>4</Level>
+      <SpellName>Longstrider, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>4</Level>
+      <SpellName>Vigor</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>5</Level>
+      <SpellName>Blighted Breath</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>5</Level>
+      <SpellName>Death Ward</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>5</Level>
+      <SpellName>Plant Growth</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>5</Level>
+      <SpellName>Reincarnate</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>5</Level>
+      <SpellName>Thorn Wave</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>6</Level>
+      <SpellName>Fire Shield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>6</Level>
+      <SpellName>Grasping Thorns</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>6</Level>
+      <SpellName>Greater Dispel Magic</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>6</Level>
+      <SpellName>Greater Vigor</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>6</Level>
+      <SpellName>Word of Balance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>7</Level>
+      <SpellName>Creeping Doom</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>7</Level>
+      <SpellName>Finger of Death</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>7</Level>
+      <SpellName>Freedom of Movement, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>7</Level>
+      <SpellName>Protection from Elements, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>7</Level>
+      <SpellName>True Seeing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>8</Level>
+      <SpellName>Black Dragon Bolt</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>8</Level>
+      <SpellName>Earthquake</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>8</Level>
+      <SpellName>Greater Vigor, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>8</Level>
+      <SpellName>Regenerate</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>8</Level>
+      <SpellName>Thorn Lance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>9</Level>
+      <SpellName>Acid Well</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>9</Level>
+      <SpellName>Rend the Soul</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>9</Level>
+      <SpellName>Storm of Vengeance</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>9</Level>
+      <SpellName>Tsunami</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Blight Caster</Class>
+      <Level>9</Level>
+      <SpellName>Wail of the Banshee</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Blight Caster</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightThornOrBileI</EnhancementName>
+        <Selection>Thorn Strike</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightSharpEdgesI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightThornOrBileII</EnhancementName>
+        <Selection>Splinter Bolt</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightSharpEdgesII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightEveryRoseHasItsThorn</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightDefiledGrowth</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightEnvelopingSwarm</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightSharpEdgesIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightAbilityI</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightAbilityII</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightThornOrBileIII</EnhancementName>
+        <Selection>Thorn Bloom</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightFastActingPoison</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightSharpEdgesIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightGraspingThorns</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightEverythingDecays</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightDoomsayer</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCoatedThorns</EnhancementName>
+        <Selection>Vile Thorns</Selection>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BlightCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Season's Herald</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHBeguile</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHDruidicWisdom</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHImprovedMetamagicsII</EnhancementName>
+        <Selection>Efficient Maximize</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHImprovedMetamagicsI</EnhancementName>
+        <Selection>Efficient Quicken</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHAbilityI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHAutumnWinds</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHWaxAndWaneIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHAbilityII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHStrengthOfTheSolstice</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SHCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Human</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HumanCore1</EnhancementName>
+        <Selection>Spell Power Boost</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HumanCore2</EnhancementName>
+        <Selection>+1 Wisdom</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HumanImprovedRecovery1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelRenewal</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Primal Avatar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarCore1</EnhancementName>
+        <Selection>Thorn</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarEpicStrikes</EnhancementName>
+        <Selection>Carrion Swarm</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarRejuvenationCocoon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarPrimalChoice</EnhancementName>
+        <Selection>Shard Storm</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarMantleOfNature</EnhancementName>
+        <Selection>Thorn</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarThrive</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarAtItsCreUpgradePrimalSpell</EnhancementName>
+        <Selection>At Its Core - Thorn</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51PrimalAvatarEverGreen</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Draconic Incarnation</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore1</EnhancementName>
+        <Selection>Draconic Bloodline: Black</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationArcaneStudies</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonhide</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonScales</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonBreath</EnhancementName>
+        <Selection>Black Dragon Breath</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationScalesOfTheDragon</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDraconicSpellFocus</EnhancementName>
+        <Selection>Conjuration</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDauntingRoar</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationImproveDragonBreath</EnhancementName>
+        <Selection>Gaping Maw</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationPullFromTheWellspring</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationMetamagicAttunement</EnhancementName>
+        <Selection>Epic Improved Maximize</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationEpicImprovedMetamagic</EnhancementName>
+        <Selection>Epic Improved Quicken</Selection>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationRuinItensified</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationDragonform</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationEnhancedDraconicSpellFocus</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DraconicIncarnationSpreadYourWings</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Helmet>
+        <Name>Legendary Crown of Snow</Name>
+        <Icon>Helmet_LegendaryCrownOfFireflies</Icon>
+        <Description>A crown of packed snow and arcane magic, both beautful and cold.</Description>
+        <DropLocation>U48 Quest: Legend of the Lost Locket</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Fire Shield (Cold): You permanently benefit from Fire Shield(Cold) which proects you from Fire Damage and harms those who attack you. You are permanently warded against Fire Shield(Hot)</EffectDescription>
+        <EffectDescription>Paragon Cerulean Wave: This powerful magical implement hums in your hands and resonates with icy magic. Spells you cast have a chance of freezing your targets in a block of solid ice.</EffectDescription>
+        <EffectDescription>Spell Focus Mastery +4: Passive: +4 Equipment bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Insightful Spell Focus Mastery +2: Passive: +2 Insight bonus to the DC of all spells.</EffectDescription>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>4</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>2</Amount>
+          <School>All</School>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+          <SelectedAugment>Diamond of Constitution</SelectedAugment>
+          <Value>12</Value>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Celestial Insignia</Name>
+        <Icon>Necklace_CelestialInsignia</Icon>
+        <Description>this Celestial pendant seems to glow ith holy light.</Description>
+        <DropLocation>U48: Any Feytwisted chest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Angelic Grace: When you are hit, 5% chance to gain 150 Temporary Hitpoints. This can proc once every 10 seconds.</EffectDescription>
+        <EffectDescription>Healing Amplification +53: +53 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>Quality Constitution +3: Passive: +3 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Physical Sheltering +8: This item provides a +8 Quality bonus to your Physical Resistance Rating.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>53</Amount>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Trinket>
+        <Name>Legendary Bottle of Shadows</Name>
+        <Icon>Trinket_LegendaryBottleOfShadows</Icon>
+        <Description>A label on the bottle reads, "For when you need to shroud yourself in darkness."</Description>
+        <DropLocation>U46: Quest: Home of Memory</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Profane Well Rounded: +2 Profane bonus to all abilities.</EffectDescription>
+        <EffectDescription>Law Absorption +22%: Passive: 22% Enhancement Bonus to Law absorption</EffectDescription>
+        <EffectDescription>Good Absorption +22%: Passive: 22% Enhancement Bonus to Good absorption</EffectDescription>
+        <EffectDescription>Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.</EffectDescription>
+        <EquipmentSlot>
+          <Trinket/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Profane</Bonus>
+          <Amount>2</Amount>
+          <Ability>All</Ability>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+          <Energy>Lawful</Energy>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+          <Energy>Good</Energy>
+        </Effect>
+        <Effect>
+          <Type>Displacement</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>25</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Trinket>
+      <Cloak>
+        <Name>Legendary Cloak of Autumn</Name>
+        <Icon>Cloak_LegendaryCloakOfAutumn</Icon>
+        <Description>This Cloak appears to be made of still-living foliage, in the form of autumn leaves.</Description>
+        <DropLocation>U48 Quest: The Knight who Cried Windmill</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Acid Absorption +34%: 34% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistances have been taken into account.)</EffectDescription>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Feat: Wind Through The Trees: While equipped, this item grans the feat Wind Through the Trees</EffectDescription>
+        <EffectDescription>Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.</EffectDescription>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>34</Amount>
+          <Energy>Acid</Energy>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>GrantFeat</Type>
+          <Bonus>Equipment</Bonus>
+          <Feat>Wind through the Trees</Feat>
+        </Effect>
+        <Effect>
+          <Type>Displacement</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>25</Amount>
+          <ApplyAsItemEffect/>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Cloak>
+      <Belt>
+        <Name>Legendary Black Satin Waist</Name>
+        <Icon>Belt_LegendaryBlackSatinWaist</Icon>
+        <Description>It's definitely cursed.</Description>
+        <DropLocation>Quest: The Magma Must Flow</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Spell Penetration +8: Passive: +8 Equipment Bonus to Spell Penetration checks.</EffectDescription>
+        <EffectDescription>Quality Spell Focus Mastery +2: Passive: +2 Quality bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Spell Resistance +38: +38 Enhancement bonus to spell resistance.</EffectDescription>
+        <EquipmentSlot>
+          <Belt/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SpellPenetrationBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellResistance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>38</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (Qual IWC)</Type>
+          <SelectedAugment>+3 Quality Wisdom</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Belt>
+      <Goggles>
+        <Name>Legendary Corroded Iron Lenses</Name>
+        <Icon>Goggles_LegendaryCorrodedIronLenses</Icon>
+        <Description>Salt and sea have done their work on these old frames.</Description>
+        <DropLocation>U50: Quest: Danger at Dunwater</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Acid Lore +21%: Passive: Your Acid gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Corrosion +146: Passive: +146 Equipment Bonus to Acid Spell Power.</EffectDescription>
+        <EffectDescription>Conjuration Focus +6: Passive: +6 Equipment bonus to the DC to resist your Conjuration spells.</EffectDescription>
+        <EffectDescription>Magical Sheltering +34: This item provides a +34 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
+        <EquipmentSlot>
+          <Goggles/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Saltmarsh Explorer</SetBonus>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>146</Amount>
+          <SpellPower>Acid</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>6</Amount>
+          <School>Conjuration</School>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>34</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Goggles>
+      <Gloves>
+        <Name>Gloryborne Gloves</Name>
+        <Icon>Gloves_GloryborneGloves</Icon>
+        <Description>These gloves smell of vibrant autumn leaves.</Description>
+        <DropLocation>U48: Feytwisted Chest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Sacred Spell Focus II: You have a +2 Sacred bonus to all Spell DCs.</EffectDescription>
+        <EffectDescription>Power of the Silver Flame +142: +142 Equipment bonus to Positive, Light and Alignment spell spell power.</EffectDescription>
+        <EffectDescription>Temperance of Spirit: You have a +1 Quality Bonus to PRR per Religious Lore Feat.</EffectDescription>
+        <EffectDescription>Quality Resistance +2: +2 Quality bonus to all saves.</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Sacred</Bonus>
+          <Amount>2</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Positive</SpellPower>
+          <SpellPower>Light/Alignment</SpellPower>
+        </Effect>
+        <Effect>
+          <DisplayName>Gloryborne Gloves: Temperance of Belief: PRR</DisplayName>
+          <Type>PRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>1</Amount>
+          <Stacks>Religious Lore</Stacks>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+          <Save>All</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Gloves>
+      <Boots>
+        <Name>Dinosaur Bone Boots</Name>
+        <Icon>Boots_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any legendary chest; or Dread saga legendary end reward</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Scale Slot</Type>
+          <SelectedAugment>Scale: +15 Wisdom</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+          <SelectedAugment>Fang: Acid Spell Crit Damage</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: Magical Resistance Rating</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: +12 Resistance</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Green Dragonscale Bracers</Name>
+        <Icon>Bracers_LegendaryGreenDragonscaleBracers</Icon>
+        <Description>These bracers are crafted out of Black Dragonscale, and have an incredible ferocity within.</Description>
+        <DropLocation>U48 Quest: Needle in a Feystack</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Power Store: This item collects and stores magical energy. Any spellcaster can use this energy to partially power their spells. All spells cast while using this item receive an enhancement bonus of -10% to their spell points costs.</EffectDescription>
+        <EffectDescription>Insightful Resistance +4: +4 Insight bonus to all saves.</EffectDescription>
+        <EffectDescription>Vitality +44: Passive: +44 Vitality bonus to Hit points.</EffectDescription>
+        <EffectDescription>Poison Resistance +50: Passive: +50 Enhancement bonus to Resist Poison.</EffectDescription>
+        <EquipmentSlot>
+          <Bracers/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>4</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Vitality</Bonus>
+          <Amount>44</Amount>
+        </Effect>
+        <Effect>
+          <Type>EnergyResistance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>50</Amount>
+          <Energy>Poison</Energy>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Bracers>
+      <Armor>
+        <Name>Cladding of Dead Leaves</Name>
+        <Icon>MediumArmor_CladdingOfDeadLeaves</Icon>
+        <Description>This medium armor is speckled with gold and other precious metals. It carries warmth despite the thin cloth material. Some part of its construction brings memories of industry, or silt and rain and the bustle os civilisation. It smells of ozone and smoke and broken dreams. Was this made by a Sharn artificer, someone you've met on your travels? Or is this a memory of travels yet to come?</Description>
+        <DropLocation>U48: Feytwisted Chest</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Exceptional Universal Spell Lore +5%: +5% Exceptional bonus to Universal Spell Lore</EffectDescription>
+        <EffectDescription>Exceptional Universal Spell Power +15: +15 Exceptional bonus to Universal Spell Power</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Parrying +6: +6 Insight bonus to AC and saves.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Medium</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>-1</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>14</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailure</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>25</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>18</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>UniversalSpellLore</Type>
+          <Bonus>Exceptional</Bonus>
+          <Amount>5</Amount>
+        </Effect>
+        <Effect>
+          <Type>UniversalSpellPower</Type>
+          <Bonus>Exceptional</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Legendary Malleable Sceptre of Devotion</Name>
+        <Icon>Club_LegendaryFusibleSceptre</Icon>
+        <Description>This magical sceptre is attuned to Positive spells.</Description>
+        <DropLocation>U49: Quest: An Element of Chaos</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Damage and Type 5[1d6+2] + 15 Bludgeon, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <EffectDescription>Spellcasting Implement +29: Passive: +29 implement bonus to Universal spell power.</EffectDescription>
+        <EffectDescription>Healing Lore +21%: Passive: Your Healing spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Devotion +142: Passive: +142 Equipment Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Devotion +71: Passive: +71 Insightful Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">6</Sides>
+          <Bonus size="1">2</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Bludgeon</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>1</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Club</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>UniversalSpellPower</Type>
+          <Bonus>Implement</Bonus>
+          <Amount>29</Amount>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>71</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Red</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Legendary Weathered Targe</Name>
+        <Icon>SmallShield_LegendaryWeatheredTarge</Icon>
+        <Description>This ancient, worn shield is crafted from densewood. Despite its age and exposure to the elements, it still provides excellent protection.</Description>
+        <DropLocation>Sands of Menechtarun, Scroll, Seal and Shard</DropLocation>
+        <MinLevel>30</MinLevel>
+        <EffectDescription>Damage and Type 5[1d8+6] + 15 Bludgeon, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x3</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Electricity Absorption +35%: Passive: 35% Enhancement Bonus Electrical Absorption.</EffectDescription>
+        <EffectDescription>Natural Armor Bonus +13: Natural Armor bonus to AC.</EffectDescription>
+        <EffectDescription>Insightful Magical Sheltering +16: This item provides a +16 Insight bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Quality Magical Sheltering +8: This item provides a +8 Quality bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Densewood: One of the most important products of the forest of Aerenal, densewood is a string, hard, heavy wood similar to iron in its properties.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">8</Sides>
+          <Bonus size="1">6</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Bludgeon</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Small Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Small Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>3</Amount>
+            <Weapon>Small Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Small Shield</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Menechtarun Scavenger</SetBonus>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <Effect>
+          <Type>BlockingDR</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>0</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailureShields</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>0</Amount>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>35</Amount>
+          <Energy>Electric</Energy>
+        </Effect>
+        <Effect>
+          <Type>NaturalArmor</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>13</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>16</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Red</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Legendary Duskbone Ring</Name>
+        <Icon>Ring_LegendaryDuskboneRing</Icon>
+        <Description>This bone ring reeks of death.</Description>
+        <DropLocation>U48 Quest: Combatting Corruption</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Vertigo +15: +15 Enhancement bonus to the DC to resist Trip and Improved Trip attempts.</EffectDescription>
+        <EffectDescription>Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for incorporeal targets. Enemy attacks have a 10% chance to miss you due to your incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.</EffectDescription>
+        <EffectDescription>Profane Lifeforce +44: +44 Profane bonus to Hit Points.</EffectDescription>
+        <EffectDescription>Hardened Exterior 2: You gain a +2 Profane bonus to AC</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Autumn</SetBonus>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+          <Tactical>Trip</Tactical>
+        </Effect>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>5</Amount>
+          <Skill>Hide</Skill>
+          <Skill>Move Silently</Skill>
+        </Effect>
+        <Effect>
+          <Type>Incorporeality</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>10</Amount>
+        </Effect>
+        <Effect>
+          <Type>GhostTouch</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>1</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Profane</Bonus>
+          <Amount>44</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Profane</Bonus>
+          <Amount>2</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring1>
+      <Ring2>
+        <Name>The Legendary Shattered Onyx</Name>
+        <Icon>Ring_TheLegendaryShatteredOnyx</Icon>
+        <Description>This onyx was shattered by some unknown force.</Description>
+        <DropLocation>Quest: Reach for the Sky</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Profane Spell Focus Mastery +2: Passive: +2 Profane bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Insightful Resistance +4: +4 Insight bonus to all saves.</EffectDescription>
+        <EffectDescription>Insightful Dodge Bonus +6%: +6% Insight bonus to Dodge.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Profane</Bonus>
+          <Amount>2</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>4</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>DodgeBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (Ins IWC)</Type>
+          <SelectedAugment>+6 Insightful Wisdom</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring2>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>
