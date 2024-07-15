@@ -1,0 +1,1947 @@
+<DDOCharacterData>
+  <Character>
+    <Name>FvS Tank Version</Name>
+    <Alignment>Lawful Good</Alignment>
+    <Race>Aasimar</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>32</UserSelectedSpend>
+      <AvailableSpend>32</AvailableSpend>
+      <StrSpend>0</StrSpend>
+      <DexSpend>0</DexSpend>
+      <ConSpend>10</ConSpend>
+      <IntSpend>6</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>8</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>0</StrTome>
+    <DexTome>0</DexTome>
+    <ConTome>0</ConTome>
+    <IntTome>0</IntTome>
+    <WisTome>0</WisTome>
+    <ChaTome>0</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Universal Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Machrotechnic</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fury of the Wild</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Tome of Destiny</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Lawful</Stances>
+      <Stances>Good</Stances>
+      <Stances>Aasimar</Stances>
+      <Stances>Heavy Armor</Stances>
+      <Stances>Sword and Board</Stances>
+      <Stances>Club</Stances>
+      <Stances>Stalwart Defense</Stances>
+      <Stances>Aasimar: Ascendant Bond: Protector</Stances>
+      <Stances>Mantle of the Sentinel</Stances>
+      <Stances>Aasimar: Protector Bond</Stances>
+      <Stances>Aasimar: Divine Purpose</Stances>
+      <Stances>Shield</Stances>
+      <Stances>Large Shield</Stances>
+    </ActiveStances>
+    <Level4>Constitution</Level4>
+    <Level8>Constitution</Level8>
+    <Level12>Constitution</Level12>
+    <Level16>Constitution</Level16>
+    <Level20>Constitution</Level20>
+    <Level24>Constitution</Level24>
+    <Level28>Constitution</Level28>
+    <Level32>Constitution</Level32>
+    <Level36>Constitution</Level36>
+    <Level40>Constitution</Level40>
+    <Class1>Favored Soul</Class1>
+    <Class2>Fighter</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Aasimar</TreeName>
+      <TreeName>Beacon of Hope</TreeName>
+      <TreeName>Stalwart Defender</TreeName>
+      <TreeName>Falconry</TreeName>
+      <TreeName>Kensei</TreeName>
+      <TreeName>Angel of Vengeance</TreeName>
+      <TreeName>Vanguard</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeName>Fury of the Wild</TreeName>
+      <TreeName>Grandmaster of Flowers</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Beacon of Hope</Tier5Tree>
+    <U51Destiny_Tier5Tree>Unyielding Sentinel</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>16</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Empower Healing Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Aasimar: Protector Bond</FeatName>
+          <Type>AasimarBond</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Follower of the Sovereign Host</FeatName>
+          <Type>FollowerOf</Type>
+          <LevelTrainedAt>0</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Grace of Battle</FeatName>
+          <Type>FavoredSoulBattle</Type>
+          <LevelTrainedAt>1</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Child of Faith</FeatName>
+          <Type>ChildOf</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Mental Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>2</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Fire</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>4</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Search the Soul</FeatName>
+          <Type>Deity</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Quicken Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Stout of Heart</FeatName>
+          <Type>FavoredSoulHeart</Type>
+          <LevelTrainedAt>6</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Mental Toughness</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>8</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Acid</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>9</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Beloved of the Divine</FeatName>
+          <Type>BelovedOf</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Shield Mastery</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Energy Absorption: Electricity</FeatName>
+          <Type>EnergyResistance</Type>
+          <LevelTrainedAt>14</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Favored Soul</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Enlarge Spell</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Greater Shield Mastery</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>17</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Heavy Armor Training</FeatName>
+          <Type>FighterBonus</Type>
+          <LevelTrainedAt>18</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Fighter</Class>
+      <SkillPointsAvailable>4</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Mental Toughness</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>20</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>21</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Toughness</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>23</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Perfect Shield Mastery</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>24</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Bulwark of Defense</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>26</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Spell Power: Positive</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>27</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Epic Damage Reduction</FeatName>
+          <Type>EpicFeat</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+        <TrainedFeat>
+          <FeatName>Scion of Celestia</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Legendary Toughness</FeatName>
+          <Type>EpicDestinyFeat</Type>
+          <LevelTrainedAt>30</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Nightshield</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Obscuring Mist</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Remove Fear</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>1</Level>
+      <SpellName>Shield of Faith</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Close Wounds</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Resist Energy</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Soundburst</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>2</Level>
+      <SpellName>Spawn Screen</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Aid, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Cure Serious Wounds</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Magic Circle Against Evil</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>3</Level>
+      <SpellName>Prayer</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Cure Critical Wounds</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Divine Power</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Freedom of Movement</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>4</Level>
+      <SpellName>Recitation</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Break Enchantment</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Cure Light Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>Protection from Elements</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>5</Level>
+      <SpellName>True Seeing</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Heal</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Undeath to Death</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>6</Level>
+      <SpellName>Word of Recall</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Cure Serious Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Destruction</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>7</Level>
+      <SpellName>Freedom of Movement, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>8</Level>
+      <SpellName>Cure Critical Wounds, Mass</SpellName>
+    </TrainedSpell>
+    <TrainedSpell>
+      <Class>Favored Soul</Class>
+      <Level>8</Level>
+      <SpellName>Death Ward, Mass</SpellName>
+    </TrainedSpell>
+    <EnhancementSpendInTree>
+      <TreeName>Aasimar</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore2</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore4</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AasimarCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivinePurpose</EnhancementName>
+        <Selection>Divine Purpose: Protector</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineResolve</EnhancementName>
+        <Selection>Charisma</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineCharge</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Blessing</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DivineForm</EnhancementName>
+        <Selection>Protector</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Beacon of Hope</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHGoodHope</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHDivineDurabilityI</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHSpellCriticalI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCloseWounds</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHDivineDurabilityII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHSpellCriticalII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHMightsReward</EnhancementName>
+        <Selection>Might's Reward: Charisma</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHSpellCriticalIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHAbilityI</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHHopeForProtection</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHAbilityII</EnhancementName>
+        <Selection>+1 Charisma</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHHopeForVictory</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHOptimism</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHHopeForSuccess</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHHeal</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHUndyingBeacon</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>BoHWallOfHealing</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Stalwart Defender</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>SDCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDImprovedStalwartDefenseI</EnhancementName>
+        <Selection>Durable Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDThreateningCountenance</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDImprovedStalwartDefenseII</EnhancementName>
+        <Selection>Resilient Defense</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDInstinctiveDefense</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDStrCon1</EnhancementName>
+        <Selection>+1 Constitution</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>SDGreaterStalwartDefenseI</EnhancementName>
+        <Selection>Hardy Defense</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Falconry</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore1</EnhancementName>
+        <Selection>Summon White Falcon</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconRugged</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconOutInNature</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconActionBoostSprint</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore2</EnhancementName>
+        <Selection>Constitution</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>FalconConditioning</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Unyielding Sentinel</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineEnergyResistance</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelEpicStrike</EnhancementName>
+        <Selection>Guard Up</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelBraceForImpact</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelMantleOftheSemtinel</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelRenewal</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelKnightsChallenge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelHandsOfTheSentinel</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelLegendaryShieldMastery</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelSparkOfLife</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelEndlessVigil</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelHardenedPurpose</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDivineBulwark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelStrengthOfVitality</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelUndyingVanguard</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelDeificResilience</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51UnyieldingSentinelLightTheDark</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Divine Crusader</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderSpearOfLight</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderConsecration</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderShieldOfLight</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderBulkUp</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCrusade</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51DivineCrusaderCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Fury of the Wild</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildAcuteSenses</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildEnduring</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildPrimalScream</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildSpeedOrStrength</EnhancementName>
+        <Selection>Fast and Furious</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildEmbraceThePain</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51FuryOfTheWildCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>0</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Helmet>
+        <Name>Legendary University Sentry's Helm</Name>
+        <Icon>Helmet_EpicMemoriesOfClarity</Icon>
+        <Description>Used by guardians of the gates, this helmet has lost its purpose but seems like it could find a new one.</Description>
+        <DropLocation>Quest: Paper Trail, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Resistance +11: +11 Resistance bonus to all saves.</EffectDescription>
+        <EffectDescription>Insightful Fortification +76%: Passive: +76% Insight Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Shield Bonus +14: This effect protects its wielder, providing a 14 Shield Bonus to Armor Class. This does not stack with an equipped shield.</EffectDescription>
+        <EffectDescription>Natural Armor Bonus +14: Natural Armor bonus to AC.</EffectDescription>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>11</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>76</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>14</Amount>
+        </Effect>
+        <Effect>
+          <Type>NaturalArmor</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Lost Purpose</Type>
+          <SelectedAugment>Legendary Armaments of the Archons</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Legendary Blademark Amulet</Name>
+        <Icon>Necklace_EpicShamansBeads</Icon>
+        <Description>The Lord of Blades has left his mark on these pendants, meant to protect his most loyal followers and devotees.</Description>
+        <DropLocation>Quest: The Bark and the Blade, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Fortitude +12: +12 Resistance bonus to Fortitude saves.</EffectDescription>
+        <EffectDescription>Profane Lifeforce +48: +48 Profane bonus to Hit Points.</EffectDescription>
+        <EffectDescription>Insightful Physical Sheltering +17: This item provides a +17 Insight bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Repair Amplification +57: Amplifies incoming repairs by +57.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Forbidden Knowledge</SetBonus>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>12</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Profane</Bonus>
+          <Amount>48</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>17</Amount>
+        </Effect>
+        <Effect>
+          <Type>RepairAmplification</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>57</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Necklace>
+      <Trinket>
+        <Name>Legendary Night Hag's Heartstone</Name>
+        <Icon>Trinket_LegendaryNightHagsHeartstone</Icon>
+        <Description>The night hags of Droaam carry these vile gems with them wherever they go, which allow them to enter the dreams of others. This particular specimen contains great potential for spellcasting, and are often used to twist the mines of their foes.</Description>
+        <DropLocation>Quest: Siegebreaker, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Insightful Spell Focus Mastery +3: Passive: +3 Insight bonus to the DC of all spells.</EffectDescription>
+        <EffectDescription>Spell Penetration +9: Passive: +9 Equipment Bonus to Spell Penetration checks.</EffectDescription>
+        <EffectDescription>Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.</EffectDescription>
+        <EffectDescription>Efficient Metamagic - Embolden II: The additional spell point cost for using the Embolden Metamagic feat is reduced by 2 SP.</EffectDescription>
+        <EquipmentSlot>
+          <Trinket/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Wrath of Sora Kell</SetBonus>
+        <SetBonus>Legendary Perfected Wrath</SetBonus>
+        <Effect>
+          <Type>SpellDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>3</Amount>
+          <School>All</School>
+        </Effect>
+        <Effect>
+          <Type>SpellPenetrationBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>9</Amount>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>-10</Amount>
+          <Percent/>
+        </Effect>
+        <Effect>
+          <Type>AdditionalSpellPointCost</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>-2</Amount>
+          <Stance>Embolden</Stance>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Trinket>
+      <Cloak>
+        <Name>Legendary University Defender's Cloak</Name>
+        <Icon>Cloak_EpicCloakOfTheAsylum</Icon>
+        <Description>This thick capelet has seen better days, but could likely be restored to glory.</Description>
+        <DropLocation>Quest: Grand Theft Aureon, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>False Life +54: This item grants the wearer +54 enhancement bonus to maximum health.</EffectDescription>
+        <EffectDescription>Healing Amplification +57: +57 Competence Bonus to your incoming Positive healing.</EffectDescription>
+        <EffectDescription>Quality Resistance +2: +2 Quality bonus to all saves.</EffectDescription>
+        <EffectDescription>Lifesealed 36%: You are immune to magical effects that cause instant death. In addition, you have a +36% Enhancement bonus to Negative Energy absorption</EffectDescription>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>FalseLife</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>54</Amount>
+        </Effect>
+        <Effect>
+          <Type>HealingAmplification</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>57</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Stacking</Bonus>
+          <Immunity>Death Effects</Immunity>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>36</Amount>
+          <Energy>Negative</Energy>
+        </Effect>
+        <ItemAugment>
+          <Type>Lost Purpose</Type>
+          <SelectedAugment>Legendary Armaments of the Archons</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Cloak>
+      <Belt>
+        <Name>Legendary Bladesworn Bandolier</Name>
+        <Icon>Belt_LegendaryPyrefangsCollar</Icon>
+        <Description>May the Lord of Blades' will be done.</Description>
+        <DropLocation>Quest: The Bark and the Blade, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Constitution +14: Passive: +14 Enhancement Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Fortification +38%: Passive: +38% Quality Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Quality Physical Sheltering +8: This item provides a +8 Quality bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Vitality +48: Passive: +48 Vitality bonus to Hit points.</EffectDescription>
+        <EquipmentSlot>
+          <Belt/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Forbidden Knowledge</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>38</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>Hitpoints</Type>
+          <Bonus>Vitality</Bonus>
+          <Amount>48</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Belt>
+      <Goggles>
+        <Name>Legendary Collective Sight</Name>
+        <Icon>Goggles_LegendaryCollectiveSight</Icon>
+        <Description>You Make The Item: 2019! Designed by the Dungeons and Dragons: Online Community.</Description>
+        <DropLocation>Quest: Blown Deadline</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Quality Resistance +2: +2 Quality bonus to all saves.</EffectDescription>
+        <EffectDescription>Temperance of Belief: You have a +1 Quality Bonus to MRR per Religious Lore Feat.</EffectDescription>
+        <EquipmentSlot>
+          <Goggles/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>2</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <DisplayName>Legendary Collective Sight: Temperance of Belief: MRR</DisplayName>
+          <Type>MRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>1</Amount>
+          <Stacks>Religious Lore</Stacks>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (SDCIWC)</Type>
+          <SelectedAugment>+13 Wisdom</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Nearly Finished (Ins SDCIWC)</Type>
+          <SelectedAugment>+6 Insightful Wisdom</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Goggles>
+      <Gloves>
+        <Name>Legendary Maenya's Iron Fists</Name>
+        <Icon>Gloves_LegendaryFabricatorsGauntlets</Icon>
+        <Description>This pair of gloves, said to have been originally crafted for the hag queen Sora Maenya, have been upgraded. They bestow the wearer with fearsome strength and the ability to terrorize foes.</Description>
+        <DropLocation>Cauldron of Sora Katra, upgraded version of Legendary Maenya's Fists</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Strength +14: Passive: +14 Enhancement Bonus to Strength.</EffectDescription>
+        <EffectDescription>Exceptional Alluring Skills +10: This item gives a +10 exceptional bonus to all Charisma based skills.</EffectDescription>
+        <EffectDescription>Physical Sheltering +35: This item provides a +35 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Fortitude Save +12: This item gives a +12 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Wrath of Sora Kell</SetBonus>
+        <SetBonus>Legendary Perfected Wrath</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+          <Ability>Strength</Ability>
+        </Effect>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Exceptional</Bonus>
+          <Amount>10</Amount>
+          <Skill>Bluff</Skill>
+          <Skill>Diplomacy</Skill>
+          <Skill>Haggle</Skill>
+          <Skill>Intimidate</Skill>
+          <Skill>Perform</Skill>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>35</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>12</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Gloves>
+      <Boots>
+        <Name>Legendary Lightning Railworker's Boots</Name>
+        <Icon>Boots_LegendaryChamberBoots</Icon>
+        <Description>The perfect boots for those who wish to work hard and expect to withstand a massive electric shock. Or ten. In one day.</Description>
+        <DropLocation>Quest: Grand Theft Aureon, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Incite +130%: +130% Enhancement bonus to increased threat generated from melee damage.</EffectDescription>
+        <EffectDescription>Electricity Absorption +36%: Passive: 36% Enhancement Bonus Electrical Absorption.</EffectDescription>
+        <EffectDescription>Elemental Resistance +45: Passive: +45 Enhancement bonus to Acid, Cold, Electric, Fire and Sonic resistance.</EffectDescription>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Forbidden Knowledge</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>ThreatBonusMelee</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>130</Amount>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>36</Amount>
+          <Energy>Electric</Energy>
+        </Effect>
+        <Effect>
+          <Type>EnergyResistance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>45</Amount>
+          <Energy>Acid</Energy>
+          <Energy>Cold</Energy>
+          <Energy>Electric</Energy>
+          <Energy>Fire</Energy>
+          <Energy>Sonic</Energy>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Crystalline Wristlet</Name>
+        <Icon>Bracers_LegendaryAosurielsBracers</Icon>
+        <Description>Made of pure crystal, this mysterious bangle holds off many ills.</Description>
+        <DropLocation>Quest: Vecna Denied, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Insightful Charisma +6: Passive: +6 Insight Bonus to Charisma.</EffectDescription>
+        <EffectDescription>Insightful Wizardry +147: Passive: +147 insight Bonus to Spell Points. (If you have Sorcerer or Favored Soul levels, you gain additional spell points proportionate to the ratio of those levels to other classes).</EffectDescription>
+        <EffectDescription>Quality Will Save +3: This item gives a +3 Quality bonus to your Will save.</EffectDescription>
+        <EffectDescription>Poison Resistance +54: Passive: +54 Enhancement bonus to Resist Poison.</EffectDescription>
+        <EquipmentSlot>
+          <Bracers/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Forbidden Knowledge</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Charisma</Ability>
+        </Effect>
+        <Effect>
+          <Type>SpellPoints</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>147</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Save>Will</Save>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>54</Amount>
+          <Save>Poison</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Bracers>
+      <Armor>
+        <Name>Legendary University Bulwark's Platemail</Name>
+        <Icon>HeavyArmor_LegendaryFiremouthsBulwark</Icon>
+        <Description>This heavy plate is reinforced several times over.</Description>
+        <DropLocation>Quest: Vecna Denied, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <EffectDescription>Physical Sheltering +36: This item provides a +36 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Fortification +153%: Passive: +153% Enhancement Bonus to Fortification.</EffectDescription>
+        <EffectDescription>Parrying +6: +6 Insight bonus to AC and saves.</EffectDescription>
+        <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Heavy</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>-5</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailure</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>35</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>25</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>36</Amount>
+        </Effect>
+        <Effect>
+          <Type>Fortification</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>153</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Stacking</Bonus>
+          <Immunity>Freedom of Movement</Immunity>
+        </Effect>
+        <ItemAugment>
+          <Type>Lost Purpose</Type>
+          <SelectedAugment>Legendary Armaments of the Archons</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Legendary Malleable Sceptre of Devotion</Name>
+        <Icon>Club_LegendaryFusibleSceptre</Icon>
+        <Description>This magical sceptre is attuned to Positive spells.</Description>
+        <DropLocation>U49: Quest: An Element of Chaos</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Damage and Type 5[1d6+2] + 15 Bludgeon, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <EffectDescription>Spellcasting Implement +29: Passive: +29 implement bonus to Universal spell power.</EffectDescription>
+        <EffectDescription>Healing Lore +21%: Passive: Your Healing spells gain a +21% Equipment Bonus to their chance to Critical Hit.</EffectDescription>
+        <EffectDescription>Devotion +142: Passive: +142 Equipment Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Insightful Devotion +71: Passive: +71 Insightful Bonus to Healing Spell Power.</EffectDescription>
+        <EffectDescription>Physical Sheltering +33: This item provides a +33 Enhancement bonus to your Physical Resistance Rating.</EffectDescription>
+        <EffectDescription>Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">6</Sides>
+          <Bonus size="1">2</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Bludgeon</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>1</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Club</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>UniversalSpellPower</Type>
+          <Bonus>Implement</Bonus>
+          <Amount>29</Amount>
+        </Effect>
+        <Effect>
+          <Type>SpellLore</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>21</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>142</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>SpellPower</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>71</Amount>
+          <SpellPower>Positive</SpellPower>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>33</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Red</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Legendary Azure Rotella</Name>
+        <Icon>LargeShield_LegendaryShieldOfTheScorpion</Icon>
+        <Description>The blue shine of this shield resembles that of the clear blue skies over Sharn.</Description>
+        <DropLocation>Quest: Paper Trail, End chest</DropLocation>
+        <MinLevel>32</MinLevel>
+        <EffectDescription>Damage and Type 5[1d10+6] + 15 Bludgeon, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x3</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to Armor Class.</EffectDescription>
+        <EffectDescription>Quality Magical Sheltering +8: This item provides a +8 Quality bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Shield Bashing +22%: +22% Enhancement bonus to Increased chance of Secondary Shield Bash</EffectDescription>
+        <EffectDescription>Feat: Elusive Target: Passive: You gain the feat Elusive Target.</EffectDescription>
+        <EffectDescription>Insightful Incite +57%: +57% Insight bonus to increased threat generated from melee damage.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">10</Sides>
+          <Bonus size="1">6</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>3</Amount>
+            <Weapon>Large Shield</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>3</CriticalMultiplier>
+        <Weapon>Large Shield</Weapon>
+        <DamageType>Bludgeoning</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Forbidden Knowledge</SetBonus>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>22</Amount>
+        </Effect>
+        <Effect>
+          <Type>BlockingDR</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>19</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Shield</Bonus>
+          <Amount>-1</Amount>
+        </Effect>
+        <Effect>
+          <Type>ArcaneSpellFailureShields</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>SecondaryShieldBash</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>22</Amount>
+        </Effect>
+        <Effect>
+          <Type>GrantFeat</Type>
+          <Bonus>Equipment</Bonus>
+          <Feat>Elusive Target</Feat>
+        </Effect>
+        <Effect>
+          <Type>ThreatBonusMelee</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>57</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Orange</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Legendary Katra's Razor Wit</Name>
+        <Icon>Ring_LegendaryCherishedWeddingRing</Icon>
+        <Description>A ring said to have been originally crafted for the hag queen Sora Katra. It makes its wearer glowingly charismatic, and allows him or her to sway others with words alone.</Description>
+        <DropLocation>Cauldron of Sora Katra, upgraded version of Legendary Katra's Wit</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Charisma +14: Passive: +14 Enhancement Bonus to Charisma.</EffectDescription>
+        <EffectDescription>Insightful Alluring Skills +10: Improves the target's Bluff, Diplomacy, Haggle, Intimidate and Perform skills.</EffectDescription>
+        <EffectDescription>Magical Sheltering +35: This item provides a +35 Enhancement bonus to your Magical Resistance Rating.</EffectDescription>
+        <EffectDescription>Will Save +12: This item gives a +12 Resistance bonus to your Will save.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Wrath of Sora Kell</SetBonus>
+        <SetBonus>Legendary Perfected Wrath</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+          <Ability>Charisma</Ability>
+        </Effect>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>10</Amount>
+          <Skill>Bluff</Skill>
+          <Skill>Diplomacy</Skill>
+          <Skill>Haggle</Skill>
+          <Skill>Intimidate</Skill>
+          <Skill>Perform</Skill>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>35</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>12</Amount>
+          <Save>Will</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Deck Curse</Type>
+        </ItemAugment>
+      </Ring1>
+      <SentientJewel>
+        <NumFiligrees>3</NumFiligrees>
+        <Filigree version="1">
+          <Name>Nystul's Mystical Defence: Constitution</Name>
+        </Filigree>
+        <Filigree version="1">
+          <Name>Nystul's Mystical Defence: MRR</Name>
+        </Filigree>
+        <Filigree version="1">
+          <Name>The Blood Feast: Constitution</Name>
+        </Filigree>
+        <ArtifactFiligree version="1">
+          <Name>Nystul's Mystical Defence: Constitution</Name>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name>Nystul's Mystical Defence: MRR</Name>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name>The Blood Feast: Constitution</Name>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name>The Cry of Battle: Constitution</Name>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name>The Enlightened Step: Constitution</Name>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes>Missing
+* Illithid Hunter Signet Quality Con Ring
+
+Sidenotes:
+* last 2 fillis are any +1 con
+
+I'm missing something, not quite at 4k hp</Notes>
+  </Character>
+</DDOCharacterData>

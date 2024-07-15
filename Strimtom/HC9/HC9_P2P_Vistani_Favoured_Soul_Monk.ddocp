@@ -117,7 +117,6 @@
     </SpecialFeats>
     <ActiveStances>
       <Stances>Cloth Armor</Stances>
-      <Stances>Centered</Stances>
       <Stances>Lawful</Stances>
       <Stances>Aasimar</Stances>
       <Stances>Ocean Stance</Stances>
@@ -163,7 +162,7 @@
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>4</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>4</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Follower of the Blood of Vol</FeatName>
@@ -181,11 +180,23 @@
           <LevelTrainedAt>0</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Knowledge of Battle</FeatName>
@@ -193,11 +204,14 @@
           <LevelTrainedAt>1</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Monk</Class>
       <SkillPointsAvailable>3</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>3</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Precision</FeatName>
@@ -210,11 +224,20 @@
           <LevelTrainedAt>2</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Tumble</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Monk</Class>
       <SkillPointsAvailable>3</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>3</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Discipline</FeatName>
@@ -222,11 +245,20 @@
           <LevelTrainedAt>3</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Perform</Skill>
+      </TrainedSkill>
+      <TrainedSkill>
+        <Skill>Perform</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Child of Faith</FeatName>
@@ -234,11 +266,14 @@
           <LevelTrainedAt>4</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Quicken Spell</FeatName>
@@ -246,11 +281,14 @@
           <LevelTrainedAt>5</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Energy Absorption: Cold</FeatName>
@@ -258,11 +296,14 @@
           <LevelTrainedAt>6</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>The Blood is The Life</FeatName>
@@ -270,11 +311,14 @@
           <LevelTrainedAt>7</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Improved Two Weapon Fighting</FeatName>
@@ -287,23 +331,32 @@
           <LevelTrainedAt>8</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Improved Critical: Piercing Weapons</FeatName>
@@ -316,17 +369,23 @@
           <LevelTrainedAt>11</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Beloved of the Divine</FeatName>
@@ -334,11 +393,14 @@
           <LevelTrainedAt>13</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Adept of Forms</FeatName>
@@ -346,17 +408,23 @@
           <LevelTrainedAt>14</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Energy Absorption: Electricity</FeatName>
@@ -364,11 +432,14 @@
           <LevelTrainedAt>16</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
           <FeatName>Greater Two Weapon Fighting</FeatName>
@@ -376,18 +447,27 @@
           <LevelTrainedAt>17</LevelTrainedAt>
         </TrainedFeat>
       </TrainedFeats>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Favored Soul</Class>
       <SkillPointsAvailable>1</SkillPointsAvailable>
-      <SkillPointsSpent>0</SkillPointsSpent>
+      <SkillPointsSpent>1</SkillPointsSpent>
       <TrainedFeats/>
+      <TrainedSkill>
+        <Skill>Concentration</Skill>
+      </TrainedSkill>
     </LevelTraining>
     <LevelTraining>
       <Class>Epic</Class>
